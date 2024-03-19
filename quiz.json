@@ -130,6 +130,6 @@
         "question": "In system hacking, which of the below is the most crucial activity?",
         "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
         "answer": "C) Cracking passwords"
- },
+ }
 ]
 }

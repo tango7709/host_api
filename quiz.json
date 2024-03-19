@@ -124,7 +124,7 @@
  {
         "question": "Which of the below can be classified as a type of computer threat?",
         "choices": ["A) Dos Attack", "B) Phishing", "C) Soliciting", "D) Both A and C"],
-        "answer": "D) Dos Attack"
+        "answer": "A) Dos Attack"
  },
  {
         "question": "In system hacking, which of the below is the most crucial activity?",

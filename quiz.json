@@ -118,7 +118,7 @@
  },
  {
         "question": "What is a single entrance for multiple connectivities called?",
-        "choices": ["A) Web services", "B) worms", "C) worms", "D) Directory service"],
+        "choices": ["A) Web services", "B) Phishing", "C) Worms", "D) Directory service"],
         "answer": "D) Directory service"
  },
  {

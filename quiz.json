@@ -101,7 +101,7 @@
         "answer": "C) Phishing attack"
  },
  {
-        "question": "Which of the following options means the security of data from tampering by unauthorized users?",
+        "question": "Which of the following options means the security of data from tampering by unidentified users?",
         "choices": ["A) Confidentiality", "B) Integrity", "C) Authentication", "D) Non-repudiation"],
         "answer": "B) Integrity"
  },

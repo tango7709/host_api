@@ -30,7 +30,7 @@
     },
     {
         "question": "What is the purpose of a VPN?",
-        "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy ", "D) Increases internet speed"],
+        "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy", "D) Increases internet speed"],
         "answer": "C)  Encrypts internet traffic to protect data and privacy"
     },
     {
@@ -52,8 +52,84 @@
         "question": "In cybersecurity, what is encryption?",
         "choices": ["A) The process of monitoring and analyzing network traffic for potential security threats", "B) The process of physically securing a computer system to prevent tampering", "C) The process of encoding information in such a way that only authorized parties can access it", "D) The process of updating software to fix security vulnerabilities"],
         "answer": "C) The process of encoding information in such a way that only authorized parties can access it"
-    }
-    
-    
+    },
+    {
+        "question": "Cyber Security provide security against what?",
+        "choices": ["A) Against Malware", "B) Defends a device from threat.", "C) Against cyber-terrorists", "D) All mentioned options"],
+        "answer": "D)  All mentioned options"
+
+    },
+ {
+        "question": "Which of the below is a kind of cyber security?",
+        "choices": ["A) All options mentioned below", "B) Cloud Security", "C) Application Security", "D) Cloud Security"],
+        "answer": "A) All options mentioned below"
+ },
+    {
+        "question": "Which of the below does not constitute a cybercrime?",
+        "choices": ["A) refusal of service", "B) Man in the middle", "C) Phishing", "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"],
+        "answer": "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"
+    },
+ {
+        "question": "Which of the below benefits of cyber security is not true?",
+        "choices": ["A) System getting slower", "B) Safeguards a device against threats", "C) provide privacy to users", "D) Secures system against viruses"],
+        "answer": "A) System getting slower"
+ },
+ {
+        "question": "Which of the below is a popular victim of cyber attackers looking to gain the IP address of a target or victim user?",
+        "choices": ["A) Emails", "B) Websites", "C) IP tracer", "D) Web pages"],
+        "answer": "B) Websites"
+ },
+{
+        "question": "You accidentally download a file from a suspicious website and notice your computer behaving strangely. What should you do?",
+        "choices": ["A) Continue using the computer as norma", "B) Ignore the strange behavior", "C) Run a virus scan and remove any malware detected", "D) Revisit the website to get in touch."],
+        "answer": "C) Run a virus scan and remove any malware detected."
+},
+{
+        "question": "You receive an email from an unknown sender that contains a link to click on. What should you do?",
+        "choices": ["A) Click on the link to see what it is", "B) Delete the email without clicking on the link", "C) Forward the email to your IT department for advice", "D) Reply to the email and ask the sender for more information"],
+        "answer": "B) Delete the email without clicking on the link"
+},
+ { 
+        "question": "You notice that your computer is running slowly and some of your files are missing. What should you do?",
+        "choices": ["A)  Ignore the issue and continue using your computer", "B)  Reset your computer to factory settings", "C) Run a virus scan on your computer", "D) Call a computer repair technician for help"],
+        "answer": "C) Run a virus scan on your computer"
+  
+ },
+ {
+        "question": "Which of the below is an internet fraud in which a consumer is digitally persuaded to reveal personal data by cybercriminals?",
+        "choices": ["A) MiTM attack", "B) DoS attack", "C) Phishing attack", "D) Website attack"],
+        "answer": "C) Phishing attack"
+ },
+ {
+        "question": "___________ means the security of data from tampering by unidentified users.",
+        "choices": ["A) Confidentiality", "B) Integrity", "C) Authentication", "D) Non-repudiation"],
+        "answer": "B) Integrity"
+ },
+ {  
+  
+        "question": "Which of the below implemented is not a good means of safeguarding privacy?",
+        "choices": ["A) 2-factor authentication", "B) ID and password-based verification", "C) Biometric verification", "D) switching off the phone"],
+        "answer": "D) switching off the phone"
+ },
+ {
+        "question": "The authenticity and security of data travelling over a network are ensured by?",
+        "choices": ["A) Firewall", "B) Antivirus", "C) Network-security protocols", "D) Pentesting Tools"],
+        "answer": "C) Network-security protocols"
+ },
+ {
+        "question": "What is a single entrance for multiple connectivities called?",
+        "choices": ["A) Web services", "B) worms", "C) worms", "D) Directory service"],
+        "answer": "D) Directory service"
+ },
+ {
+        "question": "Which of the below can be classified as a type of computer threat?",
+        "choices": ["A) Dos Attack", "B) Phishing", "C) Soliciting", "D) Both A and C"],
+        "answer": "D) Dos Attack"
+ },
+ {
+        "question": "In system hacking, which of the below is the most crucial activity?",
+        "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
+        "answer": "C) Cracking passwords"
+ },
 ]
 }

@@ -207,5 +207,23 @@
         "choices": ["A) Security", "B) Performance", "C) Longevity", "D) Reliability"],
         "answer": "A) Security"
  }
+],
+ 
+"questions_level_Basic":[
+ {      "question": "What is Cyber Security?",
+        "choices": ["A) Cyber Security provides security against malware", "B) Cyber Security provides security against cyber-terrorists", "C) Cyber Security protects a system from cyber attacks", "D) All of the mentioned"],
+        "answer": "D) All of the mentioned"
+ },
+ {
+        "question": "What does cyber security protect?",
+        "choices": ["A) Cyber security protects criminals", "B) Cyber security protects internet-connected systems", "C) Cyber security protects hackers", "D) None of the mentioned"],
+        "answer": "B) Cyber security protects internet-connected systems"
+  
+ },
+ {
+        "question": "Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
+        "choices": ["A) Cyber attack", "B) Computer security", "C) Cryptography", "D) Digital hacking"],
+        "answer": "A) Cyber attack"
+ },
 ]
 }

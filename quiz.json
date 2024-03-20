@@ -130,7 +130,7 @@
         "question": "In system hacking, which of the below is the most crucial activity?",
         "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
         "answer": "C) Cracking passwords"
- }
+ },
  {
   
         "question": "Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",

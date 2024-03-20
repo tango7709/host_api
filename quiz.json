@@ -289,6 +289,76 @@
         "question": " Which of the following is defined as an attempt to harm, damage or cause threat to a system or network?",
         "choices": ["A) Digital crime", "B) Threats", "C) System hijacking", "D) Cyber Attack"],
         "answer": "D) Cyber Attackt"
+ },
+ {
+        "question": " Organised criminals prefer cyber crime over traditional forms of crime as:",
+        "choices": ["A) It requires a higher level of skill.", "B) It is high payoff with a relatively low risk", "C) It is harder to detect.", "D) All of the above"],
+        "answer": "B) It is high payoff with a relatively low risk"
+ },
+ {
+        "question": "For charities and other types of organisations, the reputational damage from a data breach can cause as much harm as the breach itself.",
+        "choices": ["A) True", "B) False","C) Both options above are correct.","D) All of the above"],
+        "answer": "A) True"
+ },
+ {
+        "question": " Cyber crime is comprised entirely of online scams",
+        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+        "answer": "B) False"
+ },
+ {
+        "question": " Even when using the Cloud exclusively to store data, valuable information can be retrieved from stolen laptops.",
+        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+        "answer": "A) True"
+ },
+ {
+        "question": " You can always trust the contents of an email if it comes from a legitimate address at a trusted organisation.",
+        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+        "answer": "B) False"
+ },
+ {
+        "question": " Cyber crime is comprised entirely of online scams",
+        "choices": ["A) When your files are locked on your device and cannot be accessed without paying a ransom.", "B) When your computer is locked and cannot be accessed without paying a ransom","C) When you are threatened with the release of stolen files unless you pay a ransom.", "D) All of the abov"],
+        "answer": "D) All of the abov"
+ },
+ {
+        "question": " A highly tailored email scam is known as:",
+        "choices": ["A) Phishing", "B) Spear Phishing","C) Smishing", "D) Vishing"],
+        "answer": "B) Spear Phishing"
+ },
+ {
+        "question": " If you find a suspicious device connected to your computer, you should:",
+        "choices": ["A) Remove it", "B) Ignore it","C) Report it", "D) Do all of the above"],
+        "answer": "C) Report it"
+ },
+ {
+        "question": " How many accounts should you use the same password for?",
+        "choices": ["A) One Account", "B) Three Accounts","C) 10 Accounts", "D) All Accounts"],
+        "answer": "A) One Account"
+ },
+ {
+        "question": " Is it okay to give your password to?",
+        "choices": ["A) An ‘IT Person’ who asks for it over the phone", "B) Your Classmate","C) Your Best Friend", "D) None of the above"],
+        "answer": "D) None of the above"
+ },
+ {
+        "question": " Passwords should be?",
+        "choices": ["A) Simple & Short", "B) Similar & Short","C) Complex & Unique", "D) Basic & Easy"],
+        "answer": "C) Complex & Unique"
+ },
+ {
+        "question": " When should you use similar passwords?",
+        "choices": ["A) When the accounts are for similar things (eg Social Media Accounts)", "B) Never","C) On all your accounts ", "D) On a few of your accounts"],
+        "answer": "B) Never"
+ },
+ {
+        "question": " What is the existence of weakness in a system or network is known as?",
+        "choices": ["A) Attack", "B) Exploit","C) Threat", "D) Vulnerability"],
+        "answer": "D) Vulnerability"
+ },
+ {
+        "question": " Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.",
+        "choices": ["A) Phishing attack", "B) MiTM attack","C) Website attack", "D) DoS attack"],
+        "answer": "A) Phishing attack"
  }
 ]
 }

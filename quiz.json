@@ -131,5 +131,81 @@
         "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
         "answer": "C) Cracking passwords"
  }
+ {
+  
+        "question": "Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
+        "choices": ["A) Worms", "B) RATs (Remote Access Trojans)", "C) Rootkits", "D) Botnets"],
+        "answer": "B) RATs (Remote Access Trojans)"
+ },
+ {
+        "question": " When any IT device, service, or system requires security checks, the term “security testing” is employed.?",
+        "choices": ["A) Threat", "B) Vulnerability", "C) Objective of evaluation", "D) Attack"],
+        "answer": "C) Objective of evaluation"
+ },
+ {
+        "question": "Which of the below is a method of gaining access to a computer program or an entire computer system while circumventing all security measures?",
+        "choices": ["A) Backdoor", "B) Masquerading", "C) Phishing", "D) Trojan Horse"],
+        "answer": "A) Backdoor"
+ },
+ {
+        "question": "Which of the following are programmes or procedures that enable hackers to maintain control of a computer system?",
+        "choices": ["A) Worms", "B) Firewall by-passers", "C) Antivirus", "D) Exploits"],
+        "answer": "D) Exploits"
+ },
+ {
+        "question": "To ensure data/information security, what steps can be taken to preserve its confidentiality?",
+        "choices": ["A) Decrypt it", "B) Encrypt it", "C) Delete it", "D) None of the above"],
+        "answer": "B) Encrypt it"
+ },
+ {
+        "question": "Why are the factors like Confidentiality, Integrity, Availability, and Authenticity considered as the fundamentals?",
+        "choices": ["A) They help in understanding the hacking process", "B) These are the main elements for any security breach", "C) They help to understand the security and its components in a better manner", "D) All of the above"],
+        "answer": "C) They help to understand the security and its components in a better manner"
+ },
+ {
+        "question": "Which of the following is a type of independent malicious program that never required any host program?",
+        "choices": ["A) Trojan Horse", "B) Worm", "C) Trap Door", "D) Virus"],
+        "answer": "B) Worm"
+ },
+ {
+        "question": "Which of the following statements is true about the Trojans?",
+        "choices": ["A) Trojans perform tasks for which they are designed or programmed", "B) Trojans replicates them self's or clone them self's through an infections", "C) Trojans do nothing harmful to the user's computer systems", "D) None of the above"],
+        "answer": "A) Trojans perform tasks for which they are designed or programmed"
+ },
+ {
+        "question": "Which type of the following malware does not replicate or clone them self's through infection?",
+        "choices": ["A) Rootkits", "B) Viruses", "C) Worms", "D) Trojans"],
+        "answer": "D) Trojans"
+ },
+ {
+        "question": "Which one of the following statements is correct about Email security in the network security methods?",
+        "choices": ["A) One has to deploy hardware, software, and security procedures to lock those apps down.", "B) One should know about what the normal behavior of a network look likes so that he/she can spot any changes, breaches in the behavior of the network.", "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network", "D) All of the above"],
+        "answer": "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network"
+ },
+ {
+        "question": "Which of the following principle of cyber security restricts how privileges are initiated whenever any object or subject is created?",
+        "choices": ["A) Fail-safe Defaults", "B) Open-Design", "C) Least privilege", "D) None of the above"],
+        "answer": "A) Fail-safe Defaults"
+ },
+ {
+        "question": "Which one of the following principles of cyber security refers that the security mechanism must be as small and simple as possible?",
+        "choices": ["A) Open-Design", "B) Economy of the Mechanism", "C) Least privilege", "D) Fail-safe Defaults"],
+        "answer": "B) Economy of the Mechanism"
+ },
+ {
+        "question": "When was the first computer virus created?",
+        "choices": ["A) 1969", "B) 1972", "C) 1970", "D) 1971"],
+        "answer": "D) 1971"
+ },
+ {
+        "question": "Which of the following statements is correct about the firewall?",
+        "choices": ["A) It is a device installed at the boundary of a company to prevent unauthorized physical access.", "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access.", "C) It is a kind of wall built to prevent files form damaging the corporate.", "D) None of the above."],
+        "answer": "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access."
+ },
+ {
+        "question": "In computer networks, encryption techniques are primarily used to improve which of the following?",
+        "choices": ["A) Security", "B) Performance", "C) Longevity", "D) Reliability"],
+        "answer": "A) Security"
+ }
 ]
 }

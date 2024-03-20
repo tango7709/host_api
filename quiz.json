@@ -224,6 +224,6 @@
         "question": "Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
         "choices": ["A) Cyber attack", "B) Computer security", "C) Cryptography", "D) Digital hacking"],
         "answer": "A) Cyber attack"
- },
+ }
 ]
 }

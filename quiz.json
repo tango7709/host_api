@@ -224,6 +224,71 @@
         "question": "Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
         "choices": ["A) Cyber attack", "B) Computer security", "C) Cryptography", "D) Digital hacking"],
         "answer": "A) Cyber attack"
+ },
+ {
+        "question": "Which of the following is a type of cyber security?",
+        "choices": ["A) Cloud Security", "B) Network Security", "C) Application Security", "D) All of the above"],
+        "answer": "D) All of the above"
+ },
+ {
+        "question": "Which of the following is an objective of network security?",
+        "choices": ["A) Confidentiality", "B) Integrity", "C) Availability", "D) All of the above"],
+        "answer": "D) All of the above"
+ },
+ {
+        "question": "Which of the following is not a cybercrime?",
+        "choices": ["A) Advanced Encryption Standard", "B) Malware", "C) Man in the Middle", "D) Denial of Service"],
+        "answer": "A) Advanced Encryption Standard"
+ },
+ {
+        "question": "Which of the following is a component of cyber security?",
+        "choices": ["A) AI", "B) Internet Of Things", "C) Database", "D) Attacks"],
+        "answer": "B) Internet Of Things"
+ },
+ {
+        "question": " Which of the following is a type of cyber attack?",
+        "choices": ["A) Phishing", "B) SQL Injections", "C) Password Attack", "D) Attacks"],
+        "answer": "D) All of the above"
+ },
+ {
+        "question": " Which of the following is not an advantage of cyber security?",
+        "choices": ["A) Minimizes computer freezing and crashes", "B) Gives privacy to users", "C) Makes the system slower", "D) Protects system against viruses"],
+        "answer": "C) Makes the system slower"
+ },
+ {
+        "question": " In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?",
+        "choices": ["A) 1991", "B) 1983", "C) 1970", "D) 1964"],
+        "answer": "C) 1970"
+ },
+ {
+        "question": " Which of the following act violates cyber security?",
+        "choices": ["A) Exploit", "B) Attack", "C) Threat", "D) Vulnerability"],
+        "answer": "B) Attack"
+ },
+ {
+        "question": " Which of the following actions compromise cyber security?",
+        "choices": ["A) Vulnerability", "B) Attack", "C) Exploit", "D) Threat"],
+        "answer": "D) Threat"
+ },
+ {
+        "question": " Which of the following is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?",
+        "choices": ["A) Pharming", "B) Website-Duplication", "C) Mimicking", "D) Spamming"],
+        "answer": "A) Pharming"
+ },
+ {
+        "question": " Which of the following is not a type of peer-to-peer cyber-crime?",
+        "choices": ["A) MiTM", "B) Injecting Trojans to a target victim", "C) Credit card details leak in the deep web", "D) Phishing"],
+        "answer": "C) Credit card details leak in the deep web"
+ },
+ {
+        "question": " Which of the following do Cyber attackers commonly target for fetching IP address of a target or victim user?",
+        "choices": ["A)  Ip tracker", "B) Emails", "C) Websites", "D) Web pages"],
+        "answer": "C) Websites"
+ },
+ {
+        "question": " Which of the following is defined as an attempt to harm, damage or cause threat to a system or network?",
+        "choices": ["A) Digital crime", "B) Threats", "C) System hijacking", "D) Cyber Attack"],
+        "answer": "D) Cyber Attackt"
  }
 ]
 }

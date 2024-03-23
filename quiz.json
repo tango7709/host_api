@@ -440,7 +440,7 @@
   },
   {
         "question": "  What type of characters should you include in a password?",
-        "choices": ["A) Symbols only", "B) 	Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
+        "choices": ["A) Symbols only", "B) Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
         "answer": "B) 	Letters, Numbers and Symbols"
   },
   {

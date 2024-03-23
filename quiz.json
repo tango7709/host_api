@@ -488,7 +488,7 @@
   {
    
         "question": " Which of the following malicious programs, appearing to be legitimate, is commonly used to target banking and payment systems to access confidential information?",
-        "choices": ["A) Social engineering", "B)	Backdoor","C) Trojan horse", "D) Ransomware"],
+        "choices": ["A) Social engineering", "B) Backdoor","C) Trojan horse", "D) Ransomware"],
         "answer": "C) Trojan horse"
   },
   {

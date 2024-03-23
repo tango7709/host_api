@@ -445,7 +445,7 @@
   },
   {
         "question": "  Which one of the following is a strong password?",
-        "choices": ["A) Secret", "B) 	Password","C) 2BorNotTwoB", "D) Scotland"],
+        "choices": ["A) Secret", "B) Password","C) 2BorNotTwoB", "D) Scotland"],
         "answer": "C) 2BorNotTwoB"
   },
   {

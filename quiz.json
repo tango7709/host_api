@@ -360,5 +360,48 @@
         "choices": ["A) Phishing attack", "B) MiTM attack","C) Website attack", "D) DoS attack"],
         "answer": "A) Phishing attack"
  }
+ {
+  
+        "question": "  Should you use personal information in your passwords?",
+        "choices": ["A) Yes, it makes them easier to remember", "B) Yes, it helps to make them more personal","C) No, personal information could be found online and used by someone attempting to get access to your accounts", "D) Yes, friends and family will remember them also"],
+        "answer": "C) No, personal information could be found online and used by someone attempting to get access to your accounts"
+ },
+ {
+  
+        "question": " A company's network is running slowly and employees suspect a cyberattack. What steps can they take to address the issue?",
+        "choices": ["A) No action is necessary", "B) Continue working and ignore the slow network","C) Contact IT and report the issue", "D) Disconnect all devices from the network"],
+        "answer": "C) Contact IT and report the issue"
+ },
+ {
+        "question": " If an employee downloads a malicious attachment in an email by mistake, what should they do?",
+        "choices": ["A) Report the incident to IT", "B) Open the attachment to see what it contains","C) Delete the email and continue working", "D) Take each of these actions."],
+        "answer": "A) Report the incident to IT"
+ },
+ {
+  
+        "question": " What should a company do if its website is suddenly displaying inappropriate content?",
+        "choices": ["A) Computers should be restarted", "B) Contact their web hosting provider for assistance","C) Shut down the website permanently", "D) a) Ignore the issue and hope it resolves on its own"],
+        "answer": "B) Contact their web hosting provider for assistance"
+ },
+ {
+        "question": " When should you change your passwords?",
+        "choices": ["A) Never", "B) Every 10 years","C) Once a year", "D) Every 6 Months or if the account has been breached"],
+        "answer": "D) Every 6 Months or if the account has been breached"
+ },
+ {
+        "question": " Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
+        "choices": ["A) Remote Access Trojans", "B) Worms","C) Rootkits", "D) Every 6 Botnets"],
+        "answer": "A) Remote Access Trojans"
+ },
+ {
+        "question": " Which of the following attacks requires a carrier file to self-replicate?",
+        "choices": ["A) Trojan", "B) Spam","C) Worm", "D) Virus"],
+        "answer": "C) Worm"
+ },
+ {
+        "question": " What is Two Factor Authentication?",
+        "choices": ["A) A combination of more than two-character types in a password (eg Letters & Numbers)", "B) A system confirming a single user with a combination of different factors before allowing access","C) Using the same password twice", "D) Using two random words for your password"],
+        "answer": "B) A system confirming a single user with a combination of different factors before allowing access"
+ }
 ]
 }

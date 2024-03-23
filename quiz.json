@@ -441,108 +441,108 @@
   {
         "question": "  What type of characters should you include in a password?",
         "choices": ["A) Symbols only", "B) Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
-        "answer": "B) 	Letters, Numbers and Symbols"
+        "answer": "B) Letters, Numbers and Symbols"
   },
   {
         "question": "  Which one of the following is a strong password?",
         "choices": ["A) Secret", "B) 	Password","C) 2BorNotTwoB", "D) Scotland"],
-        "answer": "C) 	2BorNotTwoB"
+        "answer": "C) 2BorNotTwoB"
   },
   {
    
         "question": "  Who is it safe to tell your password to?",
-        "choices": ["A) A colleague who needs to send an urgent e-mail", "B) 	Ebay, if they send you an e-mail first","C) Your best friend, just in case you forget it", "D) You should never disclose your password to anyone"],
-        "answer": "D) 	You should never disclose your password to anyone"
+        "choices": ["A) A colleague who needs to send an urgent e-mail", "B) Ebay, if they send you an e-mail first","C) Your best friend, just in case you forget it", "D) You should never disclose your password to anyone"],
+        "answer": "D) You should never disclose your password to anyone"
   },
   {
         "question": "  Which one of the following is NOT a weak password?",
-        "choices": ["A) An anagram of your favourite film", "B) 	Your favourite football team","C) Your username", "D) Your pet's name"],
+        "choices": ["A) An anagram of your favourite film", "B) Your favourite football team","C) Your username", "D) Your pet's name"],
         "answer": "A) An anagram of your favourite film"
   },
   {
         "question": " Which one of the following can be considered to be a hardware firewall?",
-        "choices": ["A) Hub", "B) 	Router","C) Switch", "D) Bridge"],
-        "answer": "B) 	Router"
+        "choices": ["A) Hub", "B) Router","C) Switch", "D) Bridge"],
+        "answer": "B) Router"
    
   },
   {
         "question": " Which one of the following is a key function of a firewall?",
-        "choices": ["A) Deleting", "B) 	Copying","C) Monitoring", "D) Moving"],
-        "answer": "C) 	Monitoring"
+        "choices": ["A) Deleting", "B) Copying","C) Monitoring", "D) Moving"],
+        "answer": "C) Monitoring"
   },
   {
         "question": " Which of the following is not an email-related hacking tool?",
-        "choices": ["A) Sendinc", "B) 	Mail PassView","C) Email Finder Pro", "D) Mail Password"],
-        "answer": "A) 	Sendinc"
+        "choices": ["A) Sendinc", "B) Mail PassView","C) Email Finder Pro", "D) Mail Password"],
+        "answer": "A) Sendinc"
   },
   {
         "question": " 29. Which of the following term refers to a group of hackers who are both white and black hat?",
-        "choices": ["A) Yellow Hat hackers", "B) 	Grey Hat hackers","C) Red Hat Hackers", "D) White-Black Hat Hackers"],
-        "answer": "B) 	Grey Hat hackers"
+        "choices": ["A) Yellow Hat hackers", "B) Grey Hat hackers","C) Red Hat Hackers", "D) White-Black Hat Hackers"],
+        "answer": "B) Grey Hat hackers"
   },
   {
         "question": " Which of the following is not a step followed by cyber-criminals in data breaching?",
-        "choices": ["A) Attack the system", "B) 	Research and info-gathering","C) Exfiltration", "D) Fixing the bugs"],
-        "answer": "D) 	Fixing the bugs"
+        "choices": ["A) Attack the system", "B) Research and info-gathering","C) Exfiltration", "D) Fixing the bugs"],
+        "answer": "D) Fixing the bugs"
   },
   {
    
         "question": " Which of the following malicious programs, appearing to be legitimate, is commonly used to target banking and payment systems to access confidential information?",
-        "choices": ["A) Social engineering", "B) 	Backdoor","C) Trojan horse", "D) Ransomware"],
+        "choices": ["A) Social engineering", "B)	Backdoor","C) Trojan horse", "D) Ransomware"],
         "answer": "C) Trojan horse"
   },
   {
         "question": " Choose the correct malware term that describes a controversial program designed to propagate across networks for the purpose of distributing security patches for known vulnerabilities.",
-        "choices": ["A) Ethical worm", "B) 	Spyware","C) Patch management", "D) Keylogger"],
-        "answer": "A) 	Ethical worm"
+        "choices": ["A) Ethical worm", "B) Spyware","C) Patch management", "D) Keylogger"],
+        "answer": "A) Ethical worm"
   },
   {
         "question": " Which of the following describes a self-replicating malware that spreads by duplicating itself in order to infect other devices without user interaction?",
-        "choices": ["A) Botnet", "B) 	Worm","C) Malicious link", "D) Malicious link"],
-        "answer": "B) 	Worm"
+        "choices": ["A) Botnet", "B) Worm","C) Malicious link", "D) Malicious link"],
+        "answer": "B) Worm"
   },
   {
         "question": " Once installed, which collection of software tools is used to gain remote access to and control over a computer or system?",
         "choices": ["A) Penetration test", "B) Virus","C) Logic bomb", "D) Rootkit"],
-        "answer": "D) 	Rootkit"
+        "answer": "D) Rootkit"
   },
   {
    
         "question": " A hybrid virus infects both files and system sectors and may incorporate which of the following?",
         "choices": ["A) Characteristics of macro viruses", "B) Characteristics of file infectors","C) Any combination of the above", "D) Characteristics of system infectors"],
-        "answer": "C) 	Any combination of the above"
+        "answer": "C) Any combination of the above"
   },
   {
         "question": " Fill in the blanks: ______ is used legitimately in free versions of applications to display advertisements while a program is running but can be classified as ______ if the code records users' information or browsing habits without their consent and authorization.",
         "choices": ["A) Social engineering; malvertisings", "B) Adware; spyware","C) Shareware; malware", "D) Adware; ransomware"],
-        "answer": "B) 	Adware; spyware"
+        "answer": "B) Adware; spyware"
   },
   {
    
         "question": " Which of the following is not true of a keylogger?",
         "choices": ["A) Task managers are enough to detect it.", "B) It can require physical access to the target's device for installation.","C) It monitors and records keystrokes typed on a keyboard.", "D) This surveillance technology is sometimes hardware-based."],
-        "answer": "A) 	Task managers are enough to detect it."
+        "answer": "A) Task managers are enough to detect it."
   },
   {
         "question": " Fill in the blank: Phishing, spear phishing, vishing, scareware and watering hole attacks are all types of ______.",
         "choices": ["A) Probes", "B) Insider threats","C) Ransomware", "D) Social engineering"],
-        "answer": "D) 	Social engineering"
+        "answer": "D) Social engineering"
   },
   {
    
         "question": " Which of the following is not an indicator of a DoS attack?",
         "choices": ["A) Degradation of network performance", "B) Specific website is unavailable","C) Lower than usual volume of spam email", "D) Inability to access any website"],
-        "answer": "C) 	Lower than usual volume of spam email"
+        "answer": "C) Lower than usual volume of spam email"
   },
   {
         "question": " Choose the term that describes the dangerous malware that takes over a victim's machine and abuses compute resources to mine digital currency and transfer it to the criminal's digital wallet.",
         "choices": ["A) Bitcoin", "B) Cryptominer","C) Monero", "D) Graceful degradation"],
-        "answer": "B) 	Cryptominer"
+        "answer": "B)	Cryptominer"
   },
   {
         "question": " Which of the following attacks uses a botnet to overwhelm a server or other network resource with fraudulent traffic, thus triggering the system to deny access to legitimate users?",
         "choices": ["A) DDoS", "B) DoS","C) IoT", "D) Command and control"],
-        "answer": "A) 	DDoS"
+        "answer": "A) DDoS"
   }
  ]
 }

@@ -402,6 +402,62 @@
         "question": " What is Two Factor Authentication?",
         "choices": ["A) A combination of more than two-character types in a password (eg Letters & Numbers)", "B) A system confirming a single user with a combination of different factors before allowing access","C) Using the same password twice", "D) Using two random words for your password"],
         "answer": "B) A system confirming a single user with a combination of different factors before allowing access"
+ },
+ {
+        "question": " What is the term used for cybercriminals repeatedly entering password combinations to break into an account or website?",
+        "choices": ["A) Combination Trying", "B) Password Guessing ","C) Password Skimming", "D) Brute Force Attack"],
+        "answer": "D) Brute Force Attack"
+ },
+ {
+        "question": " If you receive an email from a well-known company, but its name is misspelt in the sender’s address, you should:",
+        "choices": ["A) click on the link in the email to check if it’s genuine", "B) report it as a possible phishing scam","C) reply, pointing out the error", "D) forward the email to a friend to check"],
+        "answer": "B) report it as a possible phishing scam"
  }
-]
+],
+ "questions_level_2":[
+  {
+        "question": "  Exploits are programmes or procedures that enable hackers to maintain control of a computer system.?",
+        "choices": ["A) True", "B) False","C) Antivirus is the correct answer.", "D) Firewall by-passers is the correct answer"],
+        "answer": "A) True"
+
+  },
+  {
+        "question": "  Which of the following can diminish the chance of data leakage?",
+        "choices": ["A) Cryptography", "B) Chorography","C) Steganography", "D) Authentication"],
+        "answer": "C) Steganography"
+  },
+  {
+   
+        "question": "  Which of the following is a Stuxnet?",
+        "choices": ["A) Trojan", "B) Antivirus","C) Virus", "D) Worm"],
+        "answer": "D) Worm"
+  },
+  {
+
+        "question": "  Which of the following DDoS in mobile systems wait for the owner to trigger the cyber attack?",
+        "choices": ["A) Botnets", "B) Programs","C) Virus", "D) worms"],
+        "answer": "A) Botnets"
+  },
+  {
+        "question": "  What type of characters should you include in a password?",
+        "choices": ["A) Symbols only", "B) 	Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
+        "answer": "B) 	Letters, Numbers and Symbols"
+  },
+  {
+        "question": "  Which one of the following is a strong password?",
+        "choices": ["A) Secret", "B) 	Password","C) 2BorNotTwoB", "D) Scotland"],
+        "answer": "C) 	2BorNotTwoB"
+  },
+  {
+   
+        "question": "  Who is it safe to tell your password to?",
+        "choices": ["A) A colleague who needs to send an urgent e-mail", "B) 	Ebay, if they send you an e-mail first","C) Your best friend, just in case you forget it", "D) You should never disclose your password to anyone"],
+        "answer": "D) 	You should never disclose your password to anyone"
+  },
+  {
+        "question": "  Which one of the following is NOT a weak password?",
+        "choices": ["A) An anagram of your favourite film", "B) 	Your favourite football team","C) Your username", "D) Your pet's name"],
+        "answer": "A) An anagram of your favourite film"
+  },
+ ]
 }

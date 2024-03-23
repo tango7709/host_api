@@ -537,7 +537,7 @@
   {
         "question": " Choose the term that describes the dangerous malware that takes over a victim's machine and abuses compute resources to mine digital currency and transfer it to the criminal's digital wallet.",
         "choices": ["A) Bitcoin", "B) Cryptominer","C) Monero", "D) Graceful degradation"],
-        "answer": "B)	Cryptominer"
+        "answer": "B) Cryptominer"
   },
   {
         "question": " Which of the following attacks uses a botnet to overwhelm a server or other network resource with fraudulent traffic, thus triggering the system to deny access to legitimate users?",

@@ -359,7 +359,7 @@
         "question": " Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.",
         "choices": ["A) Phishing attack", "B) MiTM attack","C) Website attack", "D) DoS attack"],
         "answer": "A) Phishing attack"
- }
+ },
  {
   
         "question": "  Should you use personal information in your passwords?",

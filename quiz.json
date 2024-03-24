@@ -1,548 +1,627 @@
 {"questions":[
  
-    {
-        "question": "Which of the following is a weak password?",
-        "choices": ["A) ILoveYou123", "B) P@ssw0rd", "C) 123456", "D) All of the above"],
-        "answer": "D) All of the above"
-    },
-
-    {    
-        
-        "question": "What is a common method to improve the security of online accounts?",
-        "choices": ["A) Keeping passwords written down on sticky notes", "B) Enabling two-factor authentication", "C) Sharing passwords with friends and family", "D)  Using the same password for multiple accounts"],
-        "answer": "B) Enabling two-factor authentication"
-
-    },
-    {
-        "question": "Which one of the following is a type of antivirus program?",
-        "choices": ["A) Norton", "B) Mcafee", "C) Kaspersky", "D) All of the above"],
-        "answer": "D) All of the above"
-    },
-    {
-        "question": "Which of the following describes the process for verifying the integrity of a message?",
-        "choices": ["A) Decryption algorithm", "B) Digital signature", "C) Protocol", "D) Message Digest"],
-        "answer": "D) Message Digest"
-    },
-    {
-        "question": "To protect the computer system against hackers and viruses, what is an essential tool to always keep on in the computer system?",
-        "choices": ["A) Firewall", "B) Antivirus", "C) Script", "D) Vlc player"],
-        "answer": "A) Firewall"
-    },
-    {
-        "question": "What is the purpose of a VPN?",
-        "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy", "D) Increases internet speed"],
-        "answer": "C)  Encrypts internet traffic to protect data and privacy"
-    },
-    {
-        "question": "What is the initial step to take when responding to a cybersecurity incident?",
-        "choices": ["A) Contacting the media", "B)  Immediately paying any demanded ransom", "C) Ignoring the incident and hoping it goes away", "D) Reporting the incident to the proper authorities"],
-        "answer": "D) Reporting the incident to the proper authorities"
-    },
-    {
-        "question": "Which of the following can be considered as the elements of cyber security?",
-        "choices": ["A) Operational Security", "B) All the displayed options", "C) Network Security", "D) Application Security"],
-        "answer": "B) All the displayed options"
-    },
-    {
-        "question": "Why do hackers usually use computer viruses?",
-        "choices": ["A) To log, monitor each and every user's stroke", "B) To gain access the sensitive information like user's Id and Passwords", "C) To log, monitor each and every user's stroke", "D) All of the above"],
-        "answer": "D) All of the above"
-    }, 
-    {
-        "question": "In cybersecurity, what is encryption?",
-        "choices": ["A) The process of monitoring and analyzing network traffic for potential security threats", "B) The process of physically securing a computer system to prevent tampering", "C) The process of encoding information in such a way that only authorized parties can access it", "D) The process of updating software to fix security vulnerabilities"],
-        "answer": "C) The process of encoding information in such a way that only authorized parties can access it"
-    },
-    {
-        "question": "Cyber Security provide security against what?",
-        "choices": ["A) Against Malware", "B) Defends a device from threat.", "C) Against cyber-terrorists", "D) All mentioned options"],
-        "answer": "D)  All mentioned options"
-
-    },
- {
-        "question": "Which of the below is a kind of cyber security?",
-        "choices": ["A) All options mentioned below", "B) Cloud Security", "C) Application Security", "D) Cloud Security"],
-        "answer": "A) All options mentioned below"
- },
-    {
-        "question": "Which of the below does not constitute a cybercrime?",
-        "choices": ["A) refusal of service", "B) Man in the middle", "C) Phishing", "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"],
-        "answer": "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"
-    },
- {
-        "question": "Which of the below benefits of cyber security is not true?",
-        "choices": ["A) System getting slower", "B) Safeguards a device against threats", "C) provide privacy to users", "D) Secures system against viruses"],
-        "answer": "A) System getting slower"
- },
- {
-        "question": "Which of the below is a popular victim of cyber attackers looking to gain the IP address of a target or victim user?",
-        "choices": ["A) Emails", "B) Websites", "C) IP tracer", "D) Web pages"],
-        "answer": "B) Websites"
- },
-{
-        "question": "You accidentally download a file from a suspicious website and notice your computer behaving strangely. What should you do?",
-        "choices": ["A) Continue using the computer as norma", "B) Ignore the strange behavior", "C) Run a virus scan and remove any malware detected", "D) Revisit the website to get in touch."],
-        "answer": "C) Run a virus scan and remove any malware detected."
-},
-{
-        "question": "You receive an email from an unknown sender that contains a link to click on. What should you do?",
-        "choices": ["A) Click on the link to see what it is", "B) Delete the email without clicking on the link", "C) Forward the email to your IT department for advice", "D) Reply to the email and ask the sender for more information"],
-        "answer": "B) Delete the email without clicking on the link"
-},
- { 
-        "question": "You notice that your computer is running slowly and some of your files are missing. What should you do?",
-        "choices": ["A)  Ignore the issue and continue using your computer", "B)  Reset your computer to factory settings", "C) Run a virus scan on your computer", "D) Call a computer repair technician for help"],
-        "answer": "C) Run a virus scan on your computer"
-  
- },
- {
-        "question": "Which of the below is an internet fraud in which a consumer is digitally persuaded to reveal personal data by cybercriminals?",
-        "choices": ["A) MiTM attack", "B) DoS attack", "C) Phishing attack", "D) Website attack"],
-        "answer": "C) Phishing attack"
- },
- {
-        "question": "Which of the following options means the security of data from tampering by unidentified users?",
-        "choices": ["A) Confidentiality", "B) Integrity", "C) Authentication", "D) Non-repudiation"],
-        "answer": "B) Integrity"
- },
- {  
-  
-        "question": "Which of the below implemented is not a good means of safeguarding privacy?",
-        "choices": ["A) 2-factor authentication", "B) ID and password-based verification", "C) Biometric verification", "D) switching off the phone"],
-        "answer": "D) switching off the phone"
- },
- {
-        "question": "The authenticity and security of data travelling over a network are ensured by?",
-        "choices": ["A) Firewall", "B) Antivirus", "C) Network-security protocols", "D) Pentesting Tools"],
-        "answer": "C) Network-security protocols"
- },
- {
-        "question": "What is a single entrance for multiple connectivities called?",
-        "choices": ["A) Web services", "B) Phishing", "C) Worms", "D) Directory service"],
-        "answer": "D) Directory service"
- },
- {
-        "question": "Which of the below can be classified as a type of computer threat?",
-        "choices": ["A) Dos Attack", "B) Phishing", "C) Soliciting", "D) Both A and C"],
-        "answer": "A) Dos Attack"
- },
- {
-        "question": "In system hacking, which of the below is the most crucial activity?",
-        "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
-        "answer": "C) Cracking passwords"
- },
- {
-  
-        "question": "Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
-        "choices": ["A) Worms", "B) RATs (Remote Access Trojans)", "C) Rootkits", "D) Botnets"],
-        "answer": "B) RATs (Remote Access Trojans)"
- },
- {
-        "question": " When any IT device, service, or system requires security checks, the term “security testing” is employed.?",
-        "choices": ["A) Threat", "B) Vulnerability", "C) Objective of evaluation", "D) Attack"],
-        "answer": "C) Objective of evaluation"
- },
- {
-        "question": "Which of the below is a method of gaining access to a computer program or an entire computer system while circumventing all security measures?",
-        "choices": ["A) Backdoor", "B) Masquerading", "C) Phishing", "D) Trojan Horse"],
-        "answer": "A) Backdoor"
- },
- {
-        "question": "Which of the following are programmes or procedures that enable hackers to maintain control of a computer system?",
-        "choices": ["A) Worms", "B) Firewall by-passers", "C) Antivirus", "D) Exploits"],
-        "answer": "D) Exploits"
- },
- {
-        "question": "To ensure data/information security, what steps can be taken to preserve its confidentiality?",
-        "choices": ["A) Decrypt it", "B) Encrypt it", "C) Delete it", "D) None of the above"],
-        "answer": "B) Encrypt it"
- },
- {
-        "question": "Why are the factors like Confidentiality, Integrity, Availability, and Authenticity considered as the fundamentals?",
-        "choices": ["A) They help in understanding the hacking process", "B) These are the main elements for any security breach", "C) They help to understand the security and its components in a better manner", "D) All of the above"],
-        "answer": "C) They help to understand the security and its components in a better manner"
- },
- {
-        "question": "Which of the following is a type of independent malicious program that never required any host program?",
-        "choices": ["A) Trojan Horse", "B) Worm", "C) Trap Door", "D) Virus"],
-        "answer": "B) Worm"
- },
- {
-        "question": "Which of the following statements is true about the Trojans?",
-        "choices": ["A) Trojans perform tasks for which they are designed or programmed", "B) Trojans replicates them self's or clone them self's through an infections", "C) Trojans do nothing harmful to the user's computer systems", "D) None of the above"],
-        "answer": "A) Trojans perform tasks for which they are designed or programmed"
- },
- {
-        "question": "Which type of the following malware does not replicate or clone them self's through infection?",
-        "choices": ["A) Rootkits", "B) Viruses", "C) Worms", "D) Trojans"],
-        "answer": "D) Trojans"
- },
- {
-        "question": "Which one of the following statements is correct about Email security in the network security methods?",
-        "choices": ["A) One has to deploy hardware, software, and security procedures to lock those apps down.", "B) One should know about what the normal behavior of a network look likes so that he/she can spot any changes, breaches in the behavior of the network.", "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network", "D) All of the above"],
-        "answer": "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network"
- },
- {
-        "question": "Which of the following principle of cyber security restricts how privileges are initiated whenever any object or subject is created?",
-        "choices": ["A) Fail-safe Defaults", "B) Open-Design", "C) Least privilege", "D) None of the above"],
-        "answer": "A) Fail-safe Defaults"
- },
- {
-        "question": "Which one of the following principles of cyber security refers that the security mechanism must be as small and simple as possible?",
-        "choices": ["A) Open-Design", "B) Economy of the Mechanism", "C) Least privilege", "D) Fail-safe Defaults"],
-        "answer": "B) Economy of the Mechanism"
- },
- {
-        "question": "When was the first computer virus created?",
-        "choices": ["A) 1969", "B) 1972", "C) 1970", "D) 1971"],
-        "answer": "D) 1971"
- },
- {
-        "question": "Which of the following statements is correct about the firewall?",
-        "choices": ["A) It is a device installed at the boundary of a company to prevent unauthorized physical access.", "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access.", "C) It is a kind of wall built to prevent files form damaging the corporate.", "D) None of the above."],
-        "answer": "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access."
- },
- {
-        "question": "In computer networks, encryption techniques are primarily used to improve which of the following?",
-        "choices": ["A) Security", "B) Performance", "C) Longevity", "D) Reliability"],
-        "answer": "A) Security"
- }
-],
- 
-"questions_level_Basic":[
- {      "question": "What is Cyber Security?",
-        "choices": ["A) Cyber Security provides security against malware", "B) Cyber Security provides security against cyber-terrorists", "C) Cyber Security protects a system from cyber attacks", "D) All of the mentioned"],
-        "answer": "D) All of the mentioned"
- },
- {
-        "question": "What does cyber security protect?",
-        "choices": ["A) Cyber security protects criminals", "B) Cyber security protects internet-connected systems", "C) Cyber security protects hackers", "D) None of the mentioned"],
-        "answer": "B) Cyber security protects internet-connected systems"
-  
- },
- {
-        "question": "Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
-        "choices": ["A) Cyber attack", "B) Computer security", "C) Cryptography", "D) Digital hacking"],
-        "answer": "A) Cyber attack"
- },
- {
-        "question": "Which of the following is a type of cyber security?",
-        "choices": ["A) Cloud Security", "B) Network Security", "C) Application Security", "D) All of the above"],
-        "answer": "D) All of the above"
- },
- {
-        "question": "Which of the following is an objective of network security?",
-        "choices": ["A) Confidentiality", "B) Integrity", "C) Availability", "D) All of the above"],
-        "answer": "D) All of the above"
- },
- {
-        "question": "Which of the following is not a cybercrime?",
-        "choices": ["A) Advanced Encryption Standard", "B) Malware", "C) Man in the Middle", "D) Denial of Service"],
-        "answer": "A) Advanced Encryption Standard"
- },
- {
-        "question": "Which of the following is a component of cyber security?",
-        "choices": ["A) AI", "B) Internet Of Things", "C) Database", "D) Attacks"],
-        "answer": "B) Internet Of Things"
- },
- {
-        "question": " Which of the following is a type of cyber attack?",
-        "choices": ["A) Phishing", "B) SQL Injections", "C) Password Attack", "D) Attacks"],
-        "answer": "D) All of the above"
- },
- {
-        "question": " Which of the following is not an advantage of cyber security?",
-        "choices": ["A) Minimizes computer freezing and crashes", "B) Gives privacy to users", "C) Makes the system slower", "D) Protects system against viruses"],
-        "answer": "C) Makes the system slower"
- },
- {
-        "question": " In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?",
-        "choices": ["A) 1991", "B) 1983", "C) 1970", "D) 1964"],
-        "answer": "C) 1970"
- },
- {
-        "question": " Which of the following act violates cyber security?",
-        "choices": ["A) Exploit", "B) Attack", "C) Threat", "D) Vulnerability"],
-        "answer": "B) Attack"
- },
- {
-        "question": " Which of the following actions compromise cyber security?",
-        "choices": ["A) Vulnerability", "B) Attack", "C) Exploit", "D) Threat"],
-        "answer": "D) Threat"
- },
- {
-        "question": " Which of the following is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?",
-        "choices": ["A) Pharming", "B) Website-Duplication", "C) Mimicking", "D) Spamming"],
-        "answer": "A) Pharming"
- },
- {
-        "question": " Which of the following is not a type of peer-to-peer cyber-crime?",
-        "choices": ["A) MiTM", "B) Injecting Trojans to a target victim", "C) Credit card details leak in the deep web", "D) Phishing"],
-        "answer": "C) Credit card details leak in the deep web"
- },
- {
-        "question": " Which of the following do Cyber attackers commonly target for fetching IP address of a target or victim user?",
-        "choices": ["A)  Ip tracker", "B) Emails", "C) Websites", "D) Web pages"],
-        "answer": "C) Websites"
- },
- {
-        "question": " Which of the following is defined as an attempt to harm, damage or cause threat to a system or network?",
-        "choices": ["A) Digital crime", "B) Threats", "C) System hijacking", "D) Cyber Attack"],
-        "answer": "D) Cyber Attackt"
- },
- {
-        "question": " Organised criminals prefer cyber crime over traditional forms of crime as:",
-        "choices": ["A) It requires a higher level of skill.", "B) It is high payoff with a relatively low risk", "C) It is harder to detect.", "D) All of the above"],
-        "answer": "B) It is high payoff with a relatively low risk"
- },
- {
-        "question": "For charities and other types of organisations, the reputational damage from a data breach can cause as much harm as the breach itself.",
-        "choices": ["A) True", "B) False","C) Both options above are correct.","D) All of the above"],
-        "answer": "A) True"
- },
- {
-        "question": " Cyber crime is comprised entirely of online scams",
-        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
-        "answer": "B) False"
- },
- {
-        "question": " Even when using the Cloud exclusively to store data, valuable information can be retrieved from stolen laptops.",
-        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
-        "answer": "A) True"
- },
- {
-        "question": " You can always trust the contents of an email if it comes from a legitimate address at a trusted organisation.",
-        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
-        "answer": "B) False"
- },
- {
-        "question": " Cyber crime is comprised entirely of online scams",
-        "choices": ["A) When your files are locked on your device and cannot be accessed without paying a ransom.", "B) When your computer is locked and cannot be accessed without paying a ransom","C) When you are threatened with the release of stolen files unless you pay a ransom.", "D) All of the abov"],
-        "answer": "D) All of the abov"
- },
- {
-        "question": " A highly tailored email scam is known as:",
-        "choices": ["A) Phishing", "B) Spear Phishing","C) Smishing", "D) Vishing"],
-        "answer": "B) Spear Phishing"
- },
- {
-        "question": " If you find a suspicious device connected to your computer, you should:",
-        "choices": ["A) Remove it", "B) Ignore it","C) Report it", "D) Do all of the above"],
-        "answer": "C) Report it"
- },
- {
-        "question": " How many accounts should you use the same password for?",
-        "choices": ["A) One Account", "B) Three Accounts","C) 10 Accounts", "D) All Accounts"],
-        "answer": "A) One Account"
- },
- {
-        "question": " Is it okay to give your password to?",
-        "choices": ["A) An ‘IT Person’ who asks for it over the phone", "B) Your Classmate","C) Your Best Friend", "D) None of the above"],
-        "answer": "D) None of the above"
- },
- {
-        "question": " Passwords should be?",
-        "choices": ["A) Simple & Short", "B) Similar & Short","C) Complex & Unique", "D) Basic & Easy"],
-        "answer": "C) Complex & Unique"
- },
- {
-        "question": " When should you use similar passwords?",
-        "choices": ["A) When the accounts are for similar things (eg Social Media Accounts)", "B) Never","C) On all your accounts ", "D) On a few of your accounts"],
-        "answer": "B) Never"
- },
- {
-        "question": " What is the existence of weakness in a system or network is known as?",
-        "choices": ["A) Attack", "B) Exploit","C) Threat", "D) Vulnerability"],
-        "answer": "D) Vulnerability"
- },
- {
-        "question": " Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.",
-        "choices": ["A) Phishing attack", "B) MiTM attack","C) Website attack", "D) DoS attack"],
-        "answer": "A) Phishing attack"
- },
- {
-  
-        "question": "  Should you use personal information in your passwords?",
-        "choices": ["A) Yes, it makes them easier to remember", "B) Yes, it helps to make them more personal","C) No, personal information could be found online and used by someone attempting to get access to your accounts", "D) Yes, friends and family will remember them also"],
-        "answer": "C) No, personal information could be found online and used by someone attempting to get access to your accounts"
- },
- {
-  
-        "question": " A company's network is running slowly and employees suspect a cyberattack. What steps can they take to address the issue?",
-        "choices": ["A) No action is necessary", "B) Continue working and ignore the slow network","C) Contact IT and report the issue", "D) Disconnect all devices from the network"],
-        "answer": "C) Contact IT and report the issue"
- },
- {
-        "question": " If an employee downloads a malicious attachment in an email by mistake, what should they do?",
-        "choices": ["A) Report the incident to IT", "B) Open the attachment to see what it contains","C) Delete the email and continue working", "D) Take each of these actions."],
-        "answer": "A) Report the incident to IT"
- },
- {
-  
-        "question": " What should a company do if its website is suddenly displaying inappropriate content?",
-        "choices": ["A) Computers should be restarted", "B) Contact their web hosting provider for assistance","C) Shut down the website permanently", "D) a) Ignore the issue and hope it resolves on its own"],
-        "answer": "B) Contact their web hosting provider for assistance"
- },
- {
-        "question": " When should you change your passwords?",
-        "choices": ["A) Never", "B) Every 10 years","C) Once a year", "D) Every 6 Months or if the account has been breached"],
-        "answer": "D) Every 6 Months or if the account has been breached"
- },
- {
-        "question": " Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
-        "choices": ["A) Remote Access Trojans", "B) Worms","C) Rootkits", "D) Every 6 Botnets"],
-        "answer": "A) Remote Access Trojans"
- },
- {
-        "question": " Which of the following attacks requires a carrier file to self-replicate?",
-        "choices": ["A) Trojan", "B) Spam","C) Worm", "D) Virus"],
-        "answer": "C) Worm"
- },
- {
-        "question": " What is Two Factor Authentication?",
-        "choices": ["A) A combination of more than two-character types in a password (eg Letters & Numbers)", "B) A system confirming a single user with a combination of different factors before allowing access","C) Using the same password twice", "D) Using two random words for your password"],
-        "answer": "B) A system confirming a single user with a combination of different factors before allowing access"
- },
- {
-        "question": " What is the term used for cybercriminals repeatedly entering password combinations to break into an account or website?",
-        "choices": ["A) Combination Trying", "B) Password Guessing ","C) Password Skimming", "D) Brute Force Attack"],
-        "answer": "D) Brute Force Attack"
- },
- {
-        "question": " If you receive an email from a well-known company, but its name is misspelt in the sender’s address, you should:",
-        "choices": ["A) click on the link in the email to check if it’s genuine", "B) report it as a possible phishing scam","C) reply, pointing out the error", "D) forward the email to a friend to check"],
-        "answer": "B) report it as a possible phishing scam"
- }
-],
- "questions_level_2":[
-  {
-        "question": "  Exploits are programmes or procedures that enable hackers to maintain control of a computer system.?",
-        "choices": ["A) True", "B) False","C) Antivirus is the correct answer.", "D) Firewall by-passers is the correct answer"],
-        "answer": "A) True"
-
-  },
-  {
-        "question": "  Which of the following can diminish the chance of data leakage?",
-        "choices": ["A) Cryptography", "B) Chorography","C) Steganography", "D) Authentication"],
-        "answer": "C) Steganography"
-  },
-  {
+       {
+           "question": "Which of the following is a weak password?",
+           "choices": ["A) ILoveYou123", "B) P@ssw0rd", "C) 123456", "D) All of the above"],
+           "answer": "D) All of the above"
+       },
    
-        "question": "  Which of the following is a Stuxnet?",
-        "choices": ["A) Trojan", "B) Antivirus","C) Virus", "D) Worm"],
-        "answer": "D) Worm"
-  },
-  {
-
-        "question": "  Which of the following DDoS in mobile systems wait for the owner to trigger the cyber attack?",
-        "choices": ["A) Botnets", "B) Programs","C) Virus", "D) worms"],
-        "answer": "A) Botnets"
-  },
-  {
-        "question": "  What type of characters should you include in a password?",
-        "choices": ["A) Symbols only", "B) Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
-        "answer": "B) Letters, Numbers and Symbols"
-  },
-  {
-        "question": "  Which one of the following is a strong password?",
-        "choices": ["A) Secret", "B) Password","C) 2BorNotTwoB", "D) Scotland"],
-        "answer": "C) 2BorNotTwoB"
-  },
-  {
+       {    
+           
+           "question": "What is a common method to improve the security of online accounts?",
+           "choices": ["A) Keeping passwords written down on sticky notes", "B) Enabling two-factor authentication", "C) Sharing passwords with friends and family", "D)  Using the same password for multiple accounts"],
+           "answer": "B) Enabling two-factor authentication"
    
-        "question": "  Who is it safe to tell your password to?",
-        "choices": ["A) A colleague who needs to send an urgent e-mail", "B) Ebay, if they send you an e-mail first","C) Your best friend, just in case you forget it", "D) You should never disclose your password to anyone"],
-        "answer": "D) You should never disclose your password to anyone"
-  },
-  {
-        "question": "  Which one of the following is NOT a weak password?",
-        "choices": ["A) An anagram of your favourite film", "B) Your favourite football team","C) Your username", "D) Your pet's name"],
-        "answer": "A) An anagram of your favourite film"
-  },
-  {
-        "question": " Which one of the following can be considered to be a hardware firewall?",
-        "choices": ["A) Hub", "B) Router","C) Switch", "D) Bridge"],
-        "answer": "B) Router"
+       },
+       {
+           "question": "Which one of the following is a type of antivirus program?",
+           "choices": ["A) Norton", "B) Mcafee", "C) Kaspersky", "D) All of the above"],
+           "answer": "D) All of the above"
+       },
+       {
+           "question": "Which of the following describes the process for verifying the integrity of a message?",
+           "choices": ["A) Decryption algorithm", "B) Digital signature", "C) Protocol", "D) Message Digest"],
+           "answer": "D) Message Digest"
+       },
+       {
+           "question": "To protect the computer system against hackers and viruses, what is an essential tool to always keep on in the computer system?",
+           "choices": ["A) Firewall", "B) Antivirus", "C) Script", "D) Vlc player"],
+           "answer": "A) Firewall"
+       },
+       {
+           "question": "What is the purpose of a VPN?",
+           "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy", "D) Increases internet speed"],
+           "answer": "C)  Encrypts internet traffic to protect data and privacy"
+       },
+       {
+           "question": "What is the initial step to take when responding to a cybersecurity incident?",
+           "choices": ["A) Contacting the media", "B)  Immediately paying any demanded ransom", "C) Ignoring the incident and hoping it goes away", "D) Reporting the incident to the proper authorities"],
+           "answer": "D) Reporting the incident to the proper authorities"
+       },
+       {
+           "question": "Which of the following can be considered as the elements of cyber security?",
+           "choices": ["A) Operational Security", "B) All the displayed options", "C) Network Security", "D) Application Security"],
+           "answer": "B) All the displayed options"
+       },
+       {
+           "question": "Why do hackers usually use computer viruses?",
+           "choices": ["A) To log, monitor each and every user's stroke", "B) To gain access the sensitive information like user's Id and Passwords", "C) To log, monitor each and every user's stroke", "D) All of the above"],
+           "answer": "D) All of the above"
+       }, 
+       {
+           "question": "In cybersecurity, what is encryption?",
+           "choices": ["A) The process of monitoring and analyzing network traffic for potential security threats", "B) The process of physically securing a computer system to prevent tampering", "C) The process of encoding information in such a way that only authorized parties can access it", "D) The process of updating software to fix security vulnerabilities"],
+           "answer": "C) The process of encoding information in such a way that only authorized parties can access it"
+       },
+       {
+           "question": "Cyber Security provide security against what?",
+           "choices": ["A) Against Malware", "B) Defends a device from threat.", "C) Against cyber-terrorists", "D) All mentioned options"],
+           "answer": "D)  All mentioned options"
    
-  },
-  {
-        "question": " Which one of the following is a key function of a firewall?",
-        "choices": ["A) Deleting", "B) Copying","C) Monitoring", "D) Moving"],
-        "answer": "C) Monitoring"
-  },
-  {
-        "question": " Which of the following is not an email-related hacking tool?",
-        "choices": ["A) Sendinc", "B) Mail PassView","C) Email Finder Pro", "D) Mail Password"],
-        "answer": "A) Sendinc"
-  },
-  {
-        "question": " 29. Which of the following term refers to a group of hackers who are both white and black hat?",
-        "choices": ["A) Yellow Hat hackers", "B) Grey Hat hackers","C) Red Hat Hackers", "D) White-Black Hat Hackers"],
-        "answer": "B) Grey Hat hackers"
-  },
-  {
-        "question": " Which of the following is not a step followed by cyber-criminals in data breaching?",
-        "choices": ["A) Attack the system", "B) Research and info-gathering","C) Exfiltration", "D) Fixing the bugs"],
-        "answer": "D) Fixing the bugs"
-  },
-  {
+       },
+    {
+           "question": "Which of the below is a kind of cyber security?",
+           "choices": ["A) All options mentioned below", "B) Cloud Security", "C) Application Security", "D) Cloud Security"],
+           "answer": "A) All options mentioned below"
+    },
+       {
+           "question": "Which of the below does not constitute a cybercrime?",
+           "choices": ["A) refusal of service", "B) Man in the middle", "C) Phishing", "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"],
+           "answer": "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"
+       },
+    {
+           "question": "Which of the below benefits of cyber security is not true?",
+           "choices": ["A) System getting slower", "B) Safeguards a device against threats", "C) provide privacy to users", "D) Secures system against viruses"],
+           "answer": "A) System getting slower"
+    },
+    {
+           "question": "Which of the below is a popular victim of cyber attackers looking to gain the IP address of a target or victim user?",
+           "choices": ["A) Emails", "B) Websites", "C) IP tracer", "D) Web pages"],
+           "answer": "B) Websites"
+    },
+   {
+           "question": "You accidentally download a file from a suspicious website and notice your computer behaving strangely. What should you do?",
+           "choices": ["A) Continue using the computer as norma", "B) Ignore the strange behavior", "C) Run a virus scan and remove any malware detected", "D) Revisit the website to get in touch."],
+           "answer": "C) Run a virus scan and remove any malware detected."
+   },
+   {
+           "question": "You receive an email from an unknown sender that contains a link to click on. What should you do?",
+           "choices": ["A) Click on the link to see what it is", "B) Delete the email without clicking on the link", "C) Forward the email to your IT department for advice", "D) Reply to the email and ask the sender for more information"],
+           "answer": "B) Delete the email without clicking on the link"
+   },
+    { 
+           "question": "You notice that your computer is running slowly and some of your files are missing. What should you do?",
+           "choices": ["A)  Ignore the issue and continue using your computer", "B)  Reset your computer to factory settings", "C) Run a virus scan on your computer", "D) Call a computer repair technician for help"],
+           "answer": "C) Run a virus scan on your computer"
+     
+    },
+    {
+           "question": "Which of the below is an internet fraud in which a consumer is digitally persuaded to reveal personal data by cybercriminals?",
+           "choices": ["A) MiTM attack", "B) DoS attack", "C) Phishing attack", "D) Website attack"],
+           "answer": "C) Phishing attack"
+    },
+    {
+           "question": "Which of the following options means the security of data from tampering by unidentified users?",
+           "choices": ["A) Confidentiality", "B) Integrity", "C) Authentication", "D) Non-repudiation"],
+           "answer": "B) Integrity"
+    },
+    {  
+     
+           "question": "Which of the below implemented is not a good means of safeguarding privacy?",
+           "choices": ["A) 2-factor authentication", "B) ID and password-based verification", "C) Biometric verification", "D) switching off the phone"],
+           "answer": "D) switching off the phone"
+    },
+    {
+           "question": "The authenticity and security of data travelling over a network are ensured by?",
+           "choices": ["A) Firewall", "B) Antivirus", "C) Network-security protocols", "D) Pentesting Tools"],
+           "answer": "C) Network-security protocols"
+    },
+    {
+           "question": "What is a single entrance for multiple connectivities called?",
+           "choices": ["A) Web services", "B) Phishing", "C) Worms", "D) Directory service"],
+           "answer": "D) Directory service"
+    },
+    {
+           "question": "Which of the below can be classified as a type of computer threat?",
+           "choices": ["A) Dos Attack", "B) Phishing", "C) Soliciting", "D) Both A and C"],
+           "answer": "A) Dos Attack"
+    },
+    {
+           "question": "In system hacking, which of the below is the most crucial activity?",
+           "choices": ["A) Information gathering", "B) Covering tracks", "C) Cracking passwords", "D) None of the above"],
+           "answer": "C) Cracking passwords"
+    },
+    {
+     
+           "question": "Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
+           "choices": ["A) Worms", "B) RATs (Remote Access Trojans)", "C) Rootkits", "D) Botnets"],
+           "answer": "B) RATs (Remote Access Trojans)"
+    },
+    {
+           "question": " When any IT device, service, or system requires security checks, the term “security testing” is employed.?",
+           "choices": ["A) Threat", "B) Vulnerability", "C) Objective of evaluation", "D) Attack"],
+           "answer": "C) Objective of evaluation"
+    },
+    {
+           "question": "Which of the below is a method of gaining access to a computer program or an entire computer system while circumventing all security measures?",
+           "choices": ["A) Backdoor", "B) Masquerading", "C) Phishing", "D) Trojan Horse"],
+           "answer": "A) Backdoor"
+    },
+    {
+           "question": "Which of the following are programmes or procedures that enable hackers to maintain control of a computer system?",
+           "choices": ["A) Worms", "B) Firewall by-passers", "C) Antivirus", "D) Exploits"],
+           "answer": "D) Exploits"
+    },
+    {
+           "question": "To ensure data/information security, what steps can be taken to preserve its confidentiality?",
+           "choices": ["A) Decrypt it", "B) Encrypt it", "C) Delete it", "D) None of the above"],
+           "answer": "B) Encrypt it"
+    },
+    {
+           "question": "Why are the factors like Confidentiality, Integrity, Availability, and Authenticity considered as the fundamentals?",
+           "choices": ["A) They help in understanding the hacking process", "B) These are the main elements for any security breach", "C) They help to understand the security and its components in a better manner", "D) All of the above"],
+           "answer": "C) They help to understand the security and its components in a better manner"
+    },
+    {
+           "question": "Which of the following is a type of independent malicious program that never required any host program?",
+           "choices": ["A) Trojan Horse", "B) Worm", "C) Trap Door", "D) Virus"],
+           "answer": "B) Worm"
+    },
+    {
+           "question": "Which of the following statements is true about the Trojans?",
+           "choices": ["A) Trojans perform tasks for which they are designed or programmed", "B) Trojans replicates them self's or clone them self's through an infections", "C) Trojans do nothing harmful to the user's computer systems", "D) None of the above"],
+           "answer": "A) Trojans perform tasks for which they are designed or programmed"
+    },
+    {
+           "question": "Which type of the following malware does not replicate or clone them self's through infection?",
+           "choices": ["A) Rootkits", "B) Viruses", "C) Worms", "D) Trojans"],
+           "answer": "D) Trojans"
+    },
+    {
+           "question": "Which one of the following statements is correct about Email security in the network security methods?",
+           "choices": ["A) One has to deploy hardware, software, and security procedures to lock those apps down.", "B) One should know about what the normal behavior of a network look likes so that he/she can spot any changes, breaches in the behavior of the network.", "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network", "D) All of the above"],
+           "answer": "C) Phishing is one of the most commonly used methods that are used by hackers to gain access to the network"
+    },
+    {
+           "question": "Which of the following principle of cyber security restricts how privileges are initiated whenever any object or subject is created?",
+           "choices": ["A) Fail-safe Defaults", "B) Open-Design", "C) Least privilege", "D) None of the above"],
+           "answer": "A) Fail-safe Defaults"
+    },
+    {
+           "question": "Which one of the following principles of cyber security refers that the security mechanism must be as small and simple as possible?",
+           "choices": ["A) Open-Design", "B) Economy of the Mechanism", "C) Least privilege", "D) Fail-safe Defaults"],
+           "answer": "B) Economy of the Mechanism"
+    },
+    {
+           "question": "When was the first computer virus created?",
+           "choices": ["A) 1969", "B) 1972", "C) 1970", "D) 1971"],
+           "answer": "D) 1971"
+    },
+    {
+           "question": "Which of the following statements is correct about the firewall?",
+           "choices": ["A) It is a device installed at the boundary of a company to prevent unauthorized physical access.", "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access.", "C) It is a kind of wall built to prevent files form damaging the corporate.", "D) None of the above."],
+           "answer": "B) It is a device installed at the boundary of an incorporate to protect it against the unauthorized access."
+    },
+    {
+           "question": "In computer networks, encryption techniques are primarily used to improve which of the following?",
+           "choices": ["A) Security", "B) Performance", "C) Longevity", "D) Reliability"],
+           "answer": "A) Security"
+    }
+   ],
+    
+   "questions_level_Basic":[
+    {      "question": "What is Cyber Security?",
+           "choices": ["A) Cyber Security provides security against malware", "B) Cyber Security provides security against cyber-terrorists", "C) Cyber Security protects a system from cyber attacks", "D) All of the mentioned"],
+           "answer": "D) All of the mentioned"
+    },
+    {
+           "question": "What does cyber security protect?",
+           "choices": ["A) Cyber security protects criminals", "B) Cyber security protects internet-connected systems", "C) Cyber security protects hackers", "D) None of the mentioned"],
+           "answer": "B) Cyber security protects internet-connected systems"
+     
+    },
+    {
+           "question": "Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
+           "choices": ["A) Cyber attack", "B) Computer security", "C) Cryptography", "D) Digital hacking"],
+           "answer": "A) Cyber attack"
+    },
+    {
+           "question": "Which of the following is a type of cyber security?",
+           "choices": ["A) Cloud Security", "B) Network Security", "C) Application Security", "D) All of the above"],
+           "answer": "D) All of the above"
+    },
+    {
+           "question": "Which of the following is an objective of network security?",
+           "choices": ["A) Confidentiality", "B) Integrity", "C) Availability", "D) All of the above"],
+           "answer": "D) All of the above"
+    },
+    {
+           "question": "Which of the following is not a cybercrime?",
+           "choices": ["A) Advanced Encryption Standard", "B) Malware", "C) Man in the Middle", "D) Denial of Service"],
+           "answer": "A) Advanced Encryption Standard"
+    },
+    {
+           "question": "Which of the following is a component of cyber security?",
+           "choices": ["A) AI", "B) Internet Of Things", "C) Database", "D) Attacks"],
+           "answer": "B) Internet Of Things"
+    },
+    {
+           "question": " Which of the following is a type of cyber attack?",
+           "choices": ["A) Phishing", "B) SQL Injections", "C) Password Attack", "D) Attacks"],
+           "answer": "D) All of the above"
+    },
+    {
+           "question": " Which of the following is not an advantage of cyber security?",
+           "choices": ["A) Minimizes computer freezing and crashes", "B) Gives privacy to users", "C) Makes the system slower", "D) Protects system against viruses"],
+           "answer": "C) Makes the system slower"
+    },
+    {
+           "question": " In which year has hacking become a practical crime and a matter of concern in the field of cyber technology?",
+           "choices": ["A) 1991", "B) 1983", "C) 1970", "D) 1964"],
+           "answer": "C) 1970"
+    },
+    {
+           "question": " Which of the following act violates cyber security?",
+           "choices": ["A) Exploit", "B) Attack", "C) Threat", "D) Vulnerability"],
+           "answer": "B) Attack"
+    },
+    {
+           "question": " Which of the following actions compromise cyber security?",
+           "choices": ["A) Vulnerability", "B) Attack", "C) Exploit", "D) Threat"],
+           "answer": "D) Threat"
+    },
+    {
+           "question": " Which of the following is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?",
+           "choices": ["A) Pharming", "B) Website-Duplication", "C) Mimicking", "D) Spamming"],
+           "answer": "A) Pharming"
+    },
+    {
+           "question": " Which of the following is not a type of peer-to-peer cyber-crime?",
+           "choices": ["A) MiTM", "B) Injecting Trojans to a target victim", "C) Credit card details leak in the deep web", "D) Phishing"],
+           "answer": "C) Credit card details leak in the deep web"
+    },
+    {
+           "question": " Which of the following do Cyber attackers commonly target for fetching IP address of a target or victim user?",
+           "choices": ["A)  Ip tracker", "B) Emails", "C) Websites", "D) Web pages"],
+           "answer": "C) Websites"
+    },
+    {
+           "question": " Which of the following is defined as an attempt to harm, damage or cause threat to a system or network?",
+           "choices": ["A) Digital crime", "B) Threats", "C) System hijacking", "D) Cyber Attack"],
+           "answer": "D) Cyber Attackt"
+    },
+    {
+           "question": " Organised criminals prefer cyber crime over traditional forms of crime as:",
+           "choices": ["A) It requires a higher level of skill.", "B) It is high payoff with a relatively low risk", "C) It is harder to detect.", "D) All of the above"],
+           "answer": "B) It is high payoff with a relatively low risk"
+    },
+    {
+           "question": "For charities and other types of organisations, the reputational damage from a data breach can cause as much harm as the breach itself.",
+           "choices": ["A) True", "B) False","C) Both options above are correct.","D) All of the above"],
+           "answer": "A) True"
+    },
+    {
+           "question": " Cyber crime is comprised entirely of online scams",
+           "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+           "answer": "B) False"
+    },
+    {
+           "question": " Even when using the Cloud exclusively to store data, valuable information can be retrieved from stolen laptops.",
+           "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+           "answer": "A) True"
+    },
+    {
+           "question": " You can always trust the contents of an email if it comes from a legitimate address at a trusted organisation.",
+           "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
+           "answer": "B) False"
+    },
+    {
+           "question": " Cyber crime is comprised entirely of online scams",
+           "choices": ["A) When your files are locked on your device and cannot be accessed without paying a ransom.", "B) When your computer is locked and cannot be accessed without paying a ransom","C) When you are threatened with the release of stolen files unless you pay a ransom.", "D) All of the abov"],
+           "answer": "D) All of the abov"
+    },
+    {
+           "question": " A highly tailored email scam is known as:",
+           "choices": ["A) Phishing", "B) Spear Phishing","C) Smishing", "D) Vishing"],
+           "answer": "B) Spear Phishing"
+    },
+    {
+           "question": " If you find a suspicious device connected to your computer, you should:",
+           "choices": ["A) Remove it", "B) Ignore it","C) Report it", "D) Do all of the above"],
+           "answer": "C) Report it"
+    },
+    {
+           "question": " How many accounts should you use the same password for?",
+           "choices": ["A) One Account", "B) Three Accounts","C) 10 Accounts", "D) All Accounts"],
+           "answer": "A) One Account"
+    },
+    {
+           "question": " Is it okay to give your password to?",
+           "choices": ["A) An ‘IT Person’ who asks for it over the phone", "B) Your Classmate","C) Your Best Friend", "D) None of the above"],
+           "answer": "D) None of the above"
+    },
+    {
+           "question": " Passwords should be?",
+           "choices": ["A) Simple & Short", "B) Similar & Short","C) Complex & Unique", "D) Basic & Easy"],
+           "answer": "C) Complex & Unique"
+    },
+    {
+           "question": " When should you use similar passwords?",
+           "choices": ["A) When the accounts are for similar things (eg Social Media Accounts)", "B) Never","C) On all your accounts ", "D) On a few of your accounts"],
+           "answer": "B) Never"
+    },
+    {
+           "question": " What is the existence of weakness in a system or network is known as?",
+           "choices": ["A) Attack", "B) Exploit","C) Threat", "D) Vulnerability"],
+           "answer": "D) Vulnerability"
+    },
+    {
+           "question": " Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.",
+           "choices": ["A) Phishing attack", "B) MiTM attack","C) Website attack", "D) DoS attack"],
+           "answer": "A) Phishing attack"
+    },
+    {
+     
+           "question": "  Should you use personal information in your passwords?",
+           "choices": ["A) Yes, it makes them easier to remember", "B) Yes, it helps to make them more personal","C) No, personal information could be found online and used by someone attempting to get access to your accounts", "D) Yes, friends and family will remember them also"],
+           "answer": "C) No, personal information could be found online and used by someone attempting to get access to your accounts"
+    },
+    {
+     
+           "question": " A company's network is running slowly and employees suspect a cyberattack. What steps can they take to address the issue?",
+           "choices": ["A) No action is necessary", "B) Continue working and ignore the slow network","C) Contact IT and report the issue", "D) Disconnect all devices from the network"],
+           "answer": "C) Contact IT and report the issue"
+    },
+    {
+           "question": " If an employee downloads a malicious attachment in an email by mistake, what should they do?",
+           "choices": ["A) Report the incident to IT", "B) Open the attachment to see what it contains","C) Delete the email and continue working", "D) Take each of these actions."],
+           "answer": "A) Report the incident to IT"
+    },
+    {
+     
+           "question": " What should a company do if its website is suddenly displaying inappropriate content?",
+           "choices": ["A) Computers should be restarted", "B) Contact their web hosting provider for assistance","C) Shut down the website permanently", "D) a) Ignore the issue and hope it resolves on its own"],
+           "answer": "B) Contact their web hosting provider for assistance"
+    },
+    {
+           "question": " When should you change your passwords?",
+           "choices": ["A) Never", "B) Every 10 years","C) Once a year", "D) Every 6 Months or if the account has been breached"],
+           "answer": "D) Every 6 Months or if the account has been breached"
+    },
+    {
+           "question": " Which of the below malware types permits the hackers to access administrative controls and do nearly everything he wants with the infected systems?",
+           "choices": ["A) Remote Access Trojans", "B) Worms","C) Rootkits", "D) Every 6 Botnets"],
+           "answer": "A) Remote Access Trojans"
+    },
+    {
+           "question": " Which of the following attacks requires a carrier file to self-replicate?",
+           "choices": ["A) Trojan", "B) Spam","C) Worm", "D) Virus"],
+           "answer": "C) Worm"
+    },
+    {
+           "question": " What is Two Factor Authentication?",
+           "choices": ["A) A combination of more than two-character types in a password (eg Letters & Numbers)", "B) A system confirming a single user with a combination of different factors before allowing access","C) Using the same password twice", "D) Using two random words for your password"],
+           "answer": "B) A system confirming a single user with a combination of different factors before allowing access"
+    },
+    {
+           "question": " What is the term used for cybercriminals repeatedly entering password combinations to break into an account or website?",
+           "choices": ["A) Combination Trying", "B) Password Guessing ","C) Password Skimming", "D) Brute Force Attack"],
+           "answer": "D) Brute Force Attack"
+    },
+    {
+           "question": " If you receive an email from a well-known company, but its name is misspelt in the sender’s address, you should:",
+           "choices": ["A) click on the link in the email to check if it’s genuine", "B) report it as a possible phishing scam","C) reply, pointing out the error", "D) forward the email to a friend to check"],
+           "answer": "B) report it as a possible phishing scam"
+    }
+   ],
+    "questions_level_2":[
+     {
+           "question": "  Exploits are programmes or procedures that enable hackers to maintain control of a computer system.?",
+           "choices": ["A) True", "B) False","C) Antivirus is the correct answer.", "D) Firewall by-passers is the correct answer"],
+           "answer": "A) True"
    
-        "question": " Which of the following malicious programs, appearing to be legitimate, is commonly used to target banking and payment systems to access confidential information?",
-        "choices": ["A) Social engineering", "B) Backdoor","C) Trojan horse", "D) Ransomware"],
-        "answer": "C) Trojan horse"
-  },
-  {
-        "question": " Choose the correct malware term that describes a controversial program designed to propagate across networks for the purpose of distributing security patches for known vulnerabilities.",
-        "choices": ["A) Ethical worm", "B) Spyware","C) Patch management", "D) Keylogger"],
-        "answer": "A) Ethical worm"
-  },
-  {
-        "question": " Which of the following describes a self-replicating malware that spreads by duplicating itself in order to infect other devices without user interaction?",
-        "choices": ["A) Botnet", "B) Worm","C) Malicious link", "D) Malicious link"],
-        "answer": "B) Worm"
-  },
-  {
-        "question": " Once installed, which collection of software tools is used to gain remote access to and control over a computer or system?",
-        "choices": ["A) Penetration test", "B) Virus","C) Logic bomb", "D) Rootkit"],
-        "answer": "D) Rootkit"
-  },
-  {
+     },
+     {
+           "question": "  Which of the following can diminish the chance of data leakage?",
+           "choices": ["A) Cryptography", "B) Chorography","C) Steganography", "D) Authentication"],
+           "answer": "C) Steganography"
+     },
+     {
+      
+           "question": "  Which of the following is a Stuxnet?",
+           "choices": ["A) Trojan", "B) Antivirus","C) Virus", "D) Worm"],
+           "answer": "D) Worm"
+     },
+     {
    
-        "question": " A hybrid virus infects both files and system sectors and may incorporate which of the following?",
-        "choices": ["A) Characteristics of macro viruses", "B) Characteristics of file infectors","C) Any combination of the above", "D) Characteristics of system infectors"],
-        "answer": "C) Any combination of the above"
-  },
-  {
-        "question": " Fill in the blanks: ______ is used legitimately in free versions of applications to display advertisements while a program is running but can be classified as ______ if the code records users' information or browsing habits without their consent and authorization.",
-        "choices": ["A) Social engineering; malvertisings", "B) Adware; spyware","C) Shareware; malware", "D) Adware; ransomware"],
-        "answer": "B) Adware; spyware"
-  },
-  {
-   
-        "question": " Which of the following is not true of a keylogger?",
-        "choices": ["A) Task managers are enough to detect it.", "B) It can require physical access to the target's device for installation.","C) It monitors and records keystrokes typed on a keyboard.", "D) This surveillance technology is sometimes hardware-based."],
-        "answer": "A) Task managers are enough to detect it."
-  },
-  {
-        "question": " Fill in the blank: Phishing, spear phishing, vishing, scareware and watering hole attacks are all types of ______.",
-        "choices": ["A) Probes", "B) Insider threats","C) Ransomware", "D) Social engineering"],
-        "answer": "D) Social engineering"
-  },
-  {
-   
-        "question": " Which of the following is not an indicator of a DoS attack?",
-        "choices": ["A) Degradation of network performance", "B) Specific website is unavailable","C) Lower than usual volume of spam email", "D) Inability to access any website"],
-        "answer": "C) Lower than usual volume of spam email"
-  },
-  {
-        "question": " Choose the term that describes the dangerous malware that takes over a victim's machine and abuses compute resources to mine digital currency and transfer it to the criminal's digital wallet.",
-        "choices": ["A) Bitcoin", "B) Cryptominer","C) Monero", "D) Graceful degradation"],
-        "answer": "B) Cryptominer"
-  },
-  {
-        "question": " Which of the following attacks uses a botnet to overwhelm a server or other network resource with fraudulent traffic, thus triggering the system to deny access to legitimate users?",
-        "choices": ["A) DDoS", "B) DoS","C) IoT", "D) Command and control"],
-        "answer": "A) DDoS"
-  }
- ]
-}
+           "question": "  Which of the following DDoS in mobile systems wait for the owner to trigger the cyber attack?",
+           "choices": ["A) Botnets", "B) Programs","C) Virus", "D) worms"],
+           "answer": "A) Botnets"
+     },
+     {
+           "question": "  What type of characters should you include in a password?",
+           "choices": ["A) Symbols only", "B) Letters, Numbers and Symbols","C) Letters only", "D) Number only"],
+           "answer": "B) Letters, Numbers and Symbols"
+     },
+     {
+           "question": "  Which one of the following is a strong password?",
+           "choices": ["A) Secret", "B) Password","C) 2BorNotTwoB", "D) Scotland"],
+           "answer": "C) 2BorNotTwoB"
+     },
+     {
+      
+           "question": "  Who is it safe to tell your password to?",
+           "choices": ["A) A colleague who needs to send an urgent e-mail", "B) Ebay, if they send you an e-mail first","C) Your best friend, just in case you forget it", "D) You should never disclose your password to anyone"],
+           "answer": "D) You should never disclose your password to anyone"
+     },
+     {
+           "question": "  Which one of the following is NOT a weak password?",
+           "choices": ["A) An anagram of your favourite film", "B) Your favourite football team","C) Your username", "D) Your pet's name"],
+           "answer": "A) An anagram of your favourite film"
+     },
+     {
+           "question": " Which one of the following can be considered to be a hardware firewall?",
+           "choices": ["A) Hub", "B) Router","C) Switch", "D) Bridge"],
+           "answer": "B) Router"
+      
+     },
+     {
+           "question": " Which one of the following is a key function of a firewall?",
+           "choices": ["A) Deleting", "B) Copying","C) Monitoring", "D) Moving"],
+           "answer": "C) Monitoring"
+     },
+     {
+           "question": " Which of the following is not an email-related hacking tool?",
+           "choices": ["A) Sendinc", "B) Mail PassView","C) Email Finder Pro", "D) Mail Password"],
+           "answer": "A) Sendinc"
+     },
+     {
+           "question": " 29. Which of the following term refers to a group of hackers who are both white and black hat?",
+           "choices": ["A) Yellow Hat hackers", "B) Grey Hat hackers","C) Red Hat Hackers", "D) White-Black Hat Hackers"],
+           "answer": "B) Grey Hat hackers"
+     },
+     {
+           "question": " Which of the following is not a step followed by cyber-criminals in data breaching?",
+           "choices": ["A) Attack the system", "B) Research and info-gathering","C) Exfiltration", "D) Fixing the bugs"],
+           "answer": "D) Fixing the bugs"
+     },
+     {
+      
+           "question": " Which of the following malicious programs, appearing to be legitimate, is commonly used to target banking and payment systems to access confidential information?",
+           "choices": ["A) Social engineering", "B) Backdoor","C) Trojan horse", "D) Ransomware"],
+           "answer": "C) Trojan horse"
+     },
+     {
+           "question": " Choose the correct malware term that describes a controversial program designed to propagate across networks for the purpose of distributing security patches for known vulnerabilities.",
+           "choices": ["A) Ethical worm", "B) Spyware","C) Patch management", "D) Keylogger"],
+           "answer": "A) Ethical worm"
+     },
+     {
+           "question": " Which of the following describes a self-replicating malware that spreads by duplicating itself in order to infect other devices without user interaction?",
+           "choices": ["A) Botnet", "B) Worm","C) Malicious link", "D) Malicious link"],
+           "answer": "B) Worm"
+     },
+     {
+           "question": " Once installed, which collection of software tools is used to gain remote access to and control over a computer or system?",
+           "choices": ["A) Penetration test", "B) Virus","C) Logic bomb", "D) Rootkit"],
+           "answer": "D) Rootkit"
+     },
+     {
+      
+           "question": " A hybrid virus infects both files and system sectors and may incorporate which of the following?",
+           "choices": ["A) Characteristics of macro viruses", "B) Characteristics of file infectors","C) Any combination of the above", "D) Characteristics of system infectors"],
+           "answer": "C) Any combination of the above"
+     },
+     {
+           "question": " Fill in the blanks: ______ is used legitimately in free versions of applications to display advertisements while a program is running but can be classified as ______ if the code records users' information or browsing habits without their consent and authorization.",
+           "choices": ["A) Social engineering; malvertisings", "B) Adware; spyware","C) Shareware; malware", "D) Adware; ransomware"],
+           "answer": "B) Adware; spyware"
+     },
+     {
+      
+           "question": " Which of the following is not true of a keylogger?",
+           "choices": ["A) Task managers are enough to detect it.", "B) It can require physical access to the target's device for installation.","C) It monitors and records keystrokes typed on a keyboard.", "D) This surveillance technology is sometimes hardware-based."],
+           "answer": "A) Task managers are enough to detect it."
+     },
+     {
+           "question": " Fill in the blank: Phishing, spear phishing, vishing, scareware and watering hole attacks are all types of ______.",
+           "choices": ["A) Probes", "B) Insider threats","C) Ransomware", "D) Social engineering"],
+           "answer": "D) Social engineering"
+     },
+     {
+      
+           "question": " Which of the following is not an indicator of a DoS attack?",
+           "choices": ["A) Degradation of network performance", "B) Specific website is unavailable","C) Lower than usual volume of spam email", "D) Inability to access any website"],
+           "answer": "C) Lower than usual volume of spam email"
+     },
+     {
+           "question": " Choose the term that describes the dangerous malware that takes over a victim's machine and abuses compute resources to mine digital currency and transfer it to the criminal's digital wallet.",
+           "choices": ["A) Bitcoin", "B) Cryptominer","C) Monero", "D) Graceful degradation"],
+           "answer": "B) Cryptominer"
+     },
+     {
+           "question": " Which of the following attacks uses a botnet to overwhelm a server or other network resource with fraudulent traffic, thus triggering the system to deny access to legitimate users?",
+           "choices": ["A) DDoS", "B) DoS","C) IoT", "D) Command and control"],
+           "answer": "A) DDoS"
+     },
+     {
+       "question": " In which year computer scientists try to integrate encryption technique in tcp/ip protocol?",
+       "choices": ["A) 1984", "B) 1981","C) 1983", "D) 1978"],
+       "answer": "D) 1978"
+     },
+     {
+       "question": " Choose the one that is autonomous and does not require a host program from the list below:",
+       "choices": ["A) Trap door", "B) Worm","C) Virus", "D) Trojan horse"],
+       "answer": "B) Worm"
+     },
+     {
+       "question": " Toni responds to the desk of a user who reports slow system activity. Upon checking outbound network connections from that system, Toni notices a large amount of social media traffic originating from the system. The user does not use social media, and when Toni checks the accounts in question, they contain strange messages that appear encrypted. What is the most likely cause of this traffic?",
+       "choices": ["A) Other users are relaying social media requests through Toni's computer", "B) Toni's computer is partof a botnet","C) Toni is lying about her use of social media.", "D) Someone else is using Toni's computer when she is not present"],
+       "answer": "B) Toni's computer is partof a botnet"
+     },
+     { "question": " Which one of the following might a security team use on a honeypot system to consume an attacker's time while alerting administrators?",
+       "choices": ["A) Pseudoflaw", "B) Honeynet","C) Darknet", "D) Warning banner"],
+       "answer": "A) Pseudoflaw"
+     },
+     {
+       "question": " Jim would like to identify compromised systems on his network that may be participating in a botnet. He plans to do this by watching for connections made to known comnand and-control servers. Which one of the following techniques would be most likely to provide this information if Jim has access to a list of known servers?",
+       "choices": ["A) IDS logs", "B) Authentication logs","C) Netflow records", "D) RFC logs"],
+       "answer": "C) Netflow records"
+     },
+     {
+       "question": " Which one of the folling security tools consists of an unused network address space that may detect unauthorized activity?",
+       "choices": ["A) Honeypot", "B) Honeynet","C) Psuedoflaw", "D) Darknet"],
+       "answer": "D) Darknet"
+     },
+     {
+       "question": " Tom is responding to a recent security incident and seeking information on the approval process for a recent modification to a system's security settings. Where would he most likely find this information?",
+       "choices": ["A) Change log", "B) System log","C) Security log", "D) Application log"],
+       "answer": "A) Change log"
+     },
+     {
+       "question": " Which one of the following information sources is useful to security admiistrators seeking a list information security vulnerabilities in applications, devices, and operating systems?",
+       "choices": ["A) OWASP", "B) CVE","C) Bugtraq", "D) Microsoft Security"],
+       "answer": "B) CVE"
+     },
+     {
+       "question": " Which one of the following is an example of a computer security incident?",
+       "choices": ["A) Completion of a backup schedule", "B) System access recorded in a log","C) Unauthorised vulnerability scsn of a file server", "D) Update of antivirus signatures"],
+       "answer": "C) Unauthorised vulnerability scsn of a file server"
+     },
+     {
+       "question": " Connor's company recently experienced a denial of service attack that Connor believes came from an inside source. If true, what type of event has the company experienced?",
+       "choices": ["A) Sabotage", "B) Integrity breach","C) Confidentiality breach", "D) Espionage"],
+       "answer": "A) Sabotage"
+     },
+     {
+       "question": "  What type of attack is shown in the figure below? Refer to page 148 in book.",
+       "choices": ["A) Fraggle", "B) Smurf","C) Ping flood", "D) SYN flood"],
+       "answer": "D) SYN flood"
+     },
+     {
+       "question": "  Which one of the folloing statements best describes a zero-day vulnerability?",
+       "choices": ["A) An attacker that is new to the world of hacking", "B) An attack previously unknown to the security community","C) A database attack that places the date 00/00/0000 in data tables in an attempt to exploit flaws in business logic", "D) An attack that sets the operating system date and time to 00/00/0000 and 00:00:00"],
+       "answer": "B) An attack previously unkown to the security community"
+     },
+     {
+       "question": "  Which one of the following individuals poses the greatest risk to security in most well-defended organizations?",
+       "choices": ["A) Political activist", "B) Script kiddie","C) Malicious insider", "D) Thrill attacker"],
+       "answer": "C) Malicious insider"
+     },
+     {
+       "question": "  Select the most secure password from the following list:",
+       "choices": ["A) ThEM(12)nkEy~Eats@BAnEnahs", "B) M0nk3y1","C) Monkey2", "D) Th3 m0nk3y 3475 b4n4n4s"],
+       "answer": "A) ThEM(12)nkEy~Eats@BAnEnahs"
+     },
+     {
+       "question": "  How long would it take an attacker to crack a 10 character password?",
+       "choices": ["A) Less than a week", "B) Less than a month","C) Less than an hour", "D) It depends!"],
+       "answer": "D) It depends!"
+     },
+     {
+       "question": "  'Password Reminder' functions in applications are unsafe and should be avoided. True or False?",
+       "choices": ["A) False", "B) True","C) It depends", "D) Every option mentioned above"],
+       "answer": "B) True"
+     }
+    ]
+   }

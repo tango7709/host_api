@@ -827,11 +827,6 @@
               "question": " Which of them is not an objective of sniffing for hackers?",
               "choices": ["A) Geographic location of a user", "B) Types of files transferred","C) Email texts", "D) Fetching passwords"],
               "answer": "A) Geographic location of a user"
-       },
-       {
-              "question": " Which of the following tech-concepts cannot be sniffed?",
-              "choices": ["A) Router configuration", "B) ISP details","C) Email Traffic", "D) Web Traffic"],
-              "answer": "B) ISP details"
        }
 
     ]

@@ -623,5 +623,154 @@
        "choices": ["A) False", "B) True","C) It depends", "D) Every option mentioned above"],
        "answer": "B) True"
      }
+    ],
+"questions_level_3":[
+       {
+              "question": "  Remember me' functions in Web browsers or other applications are unsafe and should be avoided. True or False?",
+              "choices": ["A) True", "B) False","C) It depends", "D) Every option mentioned above"],
+              "answer": "A) True"
+       },
+       {
+              "question": "  Which of the following are benefits to keeping user accounts secure?",
+              "choices": ["A)  Malicious actors cannot steal a legitimate user’s access to data or manipulate the system.", "B) IT and other technical staff can be confident they know who is accessing systems and their data and, in turn, ensure those users are properly trained.","C) Security frameworks, like those that keep track of who accesses certain data, can be trusted to be accurate. ", "D) Every option mentioned above"],
+              "answer": "D)  Every option mentioned above"
+       }, 
+       {
+              "question": "  Which cybersecurity strategy involves implementing multiple layers of security to mitigate risks and enhance overall protection?",
+              "choices": ["A) Comprehensive security", "B) Defense in depth","C) Unified defense", "D) Every option mentioned above"],
+              "answer": "B) Defense in depth"
+       },
+       {
+              "question": "  Which cybersecurity model emphasizes verifying user identities before granting access to company applications and data?",
+              "choices": ["A) Perimeter security", "B) Faith-based security","C) Zero trust security", "D) Every option mentioned above"],
+              "answer": "C) Zero trust security"
+       },
+       {
+              "question": "  Which authentication service permits users to access multiple applications and/or systems with one set of credentials?",
+              "choices": ["A) Multifactor authentication", "B) Universal access key","C) Single sign-on", "D) Every option mentioned above"],
+              "answer": "C) Single sign-on"
+       },
+       {
+              
+              "question": "  Which type of cyberattack floods a target system with an overwhelming volume of traffic to render the system unavailable?",
+              "choices": ["A) Distributed denial-of-service", "B) Phishing","C) Ransomware", "D) Every option mentioned above"],
+              "answer": "A) Distributed denial-of-service"
+       },
+       {
+              "question": "  Which type of cyberattack involves encrypting a victim’s data and asking for money in exchange for the data’s release?",
+              "choices": ["A) Brute force attack", "B) The options mentioned here are all possible","C) Phishing", "D) Ransomware"],
+              "answer": "D) Ransomware"
+       },
+       {
+              "question": " Which authentication method eliminates the need for traditional passwords in favor of other verification methods?",
+              "choices": ["A) Passphrase", "B) The options mentioned here are all possible","C) Passwordless authentication", "D) Two-factor authentication"],
+              "answer": "C) Passwordless authentication"
+       },
+       {
+              "question": " Which of the following terms describes a sequence of words or characters used as a secure alternative to passwords?",
+              "choices": ["A) One-time PIN", "B) Passphrase","C) Smart card", "D) Every option mentioned above"],
+              "answer": "B) Passphrase"
+       },
+       {
+              "question": " Which of the following terms describes a sequence of words or characters used as a secure alternative to passwords?",
+              "choices": ["A) One-time PIN", "B) Passphrase","C) Smart card", "D) Every option mentioned above"],
+              "answer": "B) Passphrase"
+       },
+       {
+              "question": " From the options below, which of them is not a threat to information security?",
+              "choices": ["A) Disaster", "B) Eavesdropping","C) Information leakage", "D) Unchanged default password"],
+              "answer": "D) Unchanged default password"
+       },
+       {
+              "question": " From the options below, which of them is not a vulnerability to information security?",
+              "choices": ["A) Flood", "B) Without deleting data, disposal of storage media","C) Unchanged default password", "D) latest patches and updates not done"],
+              "answer": "A) Flood"
+       },
+       {
+              "question": " Which of the following information security technology is used for avoiding browser-based hacking?",
+              "choices": ["A) Anti-malware in browsers", "B) Adware remover in browsers","C) Remote browser access", "D) Incognito mode in a browser"],
+              "answer": "C) Remote browser access"
+       },
+       {
+              "question": " Which of the following is not an advantage of dictionary attack?",
+              "choices": ["A) Very fast", "B) Time-saving","C) Easy to perform", "D) Very tough and inefficient"],
+              "answer": "D) Very tough and inefficient"
+       },
+       {
+              "question": " Which of the following comes under the advantage of dictionary attack?",
+              "choices": ["A) Time-consuming", "B) Moderate efficient","C) Very fast", "D) Complex to carry-out"],
+              "answer": "C) Very fast"
+       },
+       {
+              "question": " Which of the following is not an example of non-technical attack techniques?",
+              "choices": ["A) Phishing", "B) Social engineering","C) Keyboard sniffing", "D) Shoulder surfing"],
+              "answer": "A) Phishingt"
+       },
+       {
+              "question": " System hacking involves password hacking as one of the major hacking methodologies.",
+              "choices": ["A) False", "B) True","C) There is no information about it", "D) Every option mentioned above"],
+              "answer": "B) True"
+       },
+       {
+              "question": " Which of the following is an example of passive online attack?",
+              "choices": ["A) Phishing", "B) Social Engineering","C) Spamming", "D) Wire sniffing"],
+              "answer": "D) Wire sniffing"
+       },
+       {
+              "question": " Which of them is not a major way of stealing email information?",
+              "choices": ["A) Reverse Engineering", "B) Stealing cookies","C) Password Phishing", "D) Social Engineering"],
+              "answer": "A) Reverse Engineering"
+       },
+       {
+              "question": " Which of them is not a proper method for email security?",
+              "choices": ["A) Use Strong password", "B) Use email Encryption","C) Click on unknown links to explore", "D) Spam filters and malware scanners"],
+              "answer": "C) Click on unknown links to explore"
+       },
+       {
+              "question": " If a website uses a cookie, or a browser contains the cookie, then every time you visit that website, the browser transfers the cookie to that website.",
+              "choices": ["A) False", "B) True","C) The options mentioned here are all possible", "D) Every option mentioned above"],
+              "answer": "B) True"
+       },
+       {
+              "question": " Fraudulent email messages are some fake email messages that seem legitimate which ask for your bank details and reply those emails with updated confidential information.",
+              "choices": ["A) The options mentioned here are all possible", "B) False","C) True", "D) Every option mentioned above"],
+              "answer": "C) True"
+       },
+       {
+              "question": " Which of these is not a step followed by cyber-criminals in data breaching?",
+              "choices": ["A) Research and info-gathering", "B) Attack the system","C) Exfiltration", "D) Fixing the bugs"],
+              "answer": "D) Fixing the bugs"
+       },
+       {
+              "question": " What types of data are stolen by cyber-criminals in most of the cases?",
+              "choices": ["A) Data that will pay once sold", "B) Data that has no value","C) Data like username and passwords only", "D) Data that is old"],
+              "answer": "A) Data that will pay once sold"
+       },
+       {
+              "question": " Which of the companies and organizations do not become the major targets of attackers for data stealing?",
+              "choices": ["A) Business firms", "B) NGOs","C) Government and secret agencies", "D) Medical and Healthcare"],
+              "answer": "B) NGOs"
+       },
+       {
+              "question": "  Illicit hackers may enter your personal area or room or cabin to steal your laptop, pen drive, documents or other components to make their hands dirty on your confidential information.",
+              "choices": ["A) The options mentioned here are all possible", "B) False","C) True", "D) Every option mentioned above"],
+              "answer": "C) True"
+       },
+       {
+              "question": " Which of the following is not a type of peer-to-peer cyber-crime?",
+              "choices": ["A) Phishing", "B) Injecting Trojans to a target victim","C) MiTM", "D) Credit card details leak in deep web"],
+              "answer": "D) Credit card details leak in deep web"
+       },
+       {
+              "question": " Which of the following is not an example of a computer as weapon cyber-crime?",
+              "choices": ["A) Spying someone using keylogger", "B) Credit card fraudulent","C) IPR Violation", "D) Pornography"],
+              "answer": "A) Spying someone using keylogger"
+       },
+       {
+              "question": " Which of the following is not done by cyber criminals?",
+              "choices": ["A) Unauthorized account access", "B) Report vulnerability in any system","C) Email spoofing and spamming", "D) Mass attack using Trojans as botnets"],
+              "answer": "B) Report vulnerability in any system"
+       }
+
     ]
    }

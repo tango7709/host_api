@@ -770,6 +770,68 @@
               "question": " Which of the following is not done by cyber criminals?",
               "choices": ["A) Unauthorized account access", "B) Report vulnerability in any system","C) Email spoofing and spamming", "D) Mass attack using Trojans as botnets"],
               "answer": "B) Report vulnerability in any system"
+       },
+       {
+              "question": " Another anonymity network is the I2P identity-sensitive network which gets distributed & is dynamic in nature as they route traffic through other peers.",
+              "choices": ["A) False", "B) The options mentioned here are all possible","C) True", "D) Every option mentioned above"],
+              "answer": "C) True"
+       },
+       {
+              "question": " Which of the following is not an example of approaches for maintaining anonymity?",
+              "choices": ["A) Use of VPNs", "B) Use of Tor Browser","C) Use of Proxy servers", "D) Use of Antivirus"],
+              "answer": "D) Use of Antivirus"
+       },
+       {
+              "question": " Which of the following is not an example of approaches for maintaining anonymity?",
+              "choices": ["A) Use firewalls", "B) Using encrypted search engines that don’t share your search data","C) Fake email services", "D) Use file shielders"],
+              "answer": "A) Use firewalls"
+       },
+       {
+              "question": " Which of the following is not a VPN used for preserving our anonymity?",
+              "choices": ["A) Nord VPN", "B) Microsoft Security Essential","C) Express VPN", "D) CyberGhost"],
+              "answer": "B) Microsoft Security Essential"
+       },
+       {
+              "question": " Developing a fake or less useful website and is meant to just fetch the IP address is very easily done by attackers.",
+              "choices": ["A) False", "B) The options mentioned here are all possible","C) True", "D) Every option mentioned above"],
+              "answer": "C) True"
+       },
+       {
+              "question": " What common web scripting languages are used by attackers to fetch various details from its surfing users?",
+              "choices": ["A) Tcl and C#", "B) C++ and HTML","C) HTML and Python", "D) Perl and JavaScript"],
+              "answer": "D) Perl and JavaScript"
+       },
+       {
+              "question": " Which of the following is not a reconnaissance tool or technique for information gathering?",
+              "choices": ["A) Nexpose", "B) Hping","C) NMAP", "D) Google Dorks"],
+              "answer": "A) Nexpose"
+       },
+       {
+              "question": " Which of the following is not done in gaining access phase?",
+              "choices": ["A) Buffer overflow", "B) Tunnelling","C) Session hijacking", "D) Password cracking"],
+              "answer": "B) Tunnelling"
+       },
+       {
+              "question": " Which of the below-mentioned penetration testing tool is popularly used in gaining access phase?",
+              "choices": ["A) Maltego", "B) NMAP","C) Metasploit", "D) Nessus"],
+              "answer": "C) Metasploit"
+       },
+       {
+              
+              "question": " Which of the following data is not appropriate here, if you delete cache, cookies, and browser history?",
+              "choices": ["A) Address bar predictions", "B) Saved passwords","C) Shopping cart content", "D) Browser plug-ins"],
+              "answer": "D) Browser plug-ins"
+       },
+       {
+              
+              "question": " Which of them is not an objective of sniffing for hackers?",
+              "choices": ["A) Geographic location of a user", "B) Types of files transferred","C) Email texts", "D) Fetching passwords"],
+              "answer": "A) Geographic location of a user"
+       },
+       {
+              "question": " Which of the following tech-concepts cannot be sniffed?",
+              "choices": ["A) Router configuration", "B) ISP details","C) Email Traffic", "D) Web Traffic"],
+              "answer": "B) ISP details"
        }
 
     ]

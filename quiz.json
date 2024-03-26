@@ -66,7 +66,7 @@
     },
        {
            "question": "Which of the below does not constitute a cybercrime?",
-           "choices": ["A) refusal of service", "B) Man in the middle", "C) Phishing", "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"],
+           "choices": ["A) Refusal of service", "B) Man in the middle", "C) Phishing", "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"],
            "answer": "D) AES which stands for Advanced Encryption Standard (safeguards data by encoding it)"
        },
     {
@@ -108,8 +108,8 @@
     {  
      
            "question": "Which of the below implemented is not a good means of safeguarding privacy?",
-           "choices": ["A) 2-factor authentication", "B) ID and password-based verification", "C) Biometric verification", "D) switching off the phone"],
-           "answer": "D) switching off the phone"
+           "choices": ["A) 2-factor authentication", "B) ID and password-based verification", "C) Biometric verification", "D) Switching off the phone"],
+           "answer": "D) Switching off the phone"
     },
     {
            "question": "The authenticity and security of data travelling over a network are ensured by?",

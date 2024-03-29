@@ -1,4 +1,4 @@
-{"questions":[
+{"questions_Intermediate":[
  
        {
            "question": "Which of the following is a weak password?",
@@ -209,7 +209,7 @@
     }
    ],
     
-   "questions_level_Basic":[
+   "questions_Basic":[
     {      "question": "What is Cyber Security?",
            "choices": ["A) Cyber Security provides security against malware", "B) Cyber Security provides security against cyber-terrorists", "C) Cyber Security protects a system from cyber attacks", "D) All of the mentioned"],
            "answer": "D) All of the mentioned"
@@ -414,7 +414,7 @@
            "answer": "B) report it as a possible phishing scam"
     }
    ],
-    "questions_level_2":[
+    "questions_Advanced":[
      {
            "question": "  Exploits are programmes or procedures that enable hackers to maintain control of a computer system.?",
            "choices": ["A) True", "B) False","C) Antivirus is the correct answer.", "D) Firewall by-passers is the correct answer"],
@@ -624,7 +624,7 @@
        "answer": "B) True"
      }
     ],
-"questions_level_3":[
+"questions_Expert":[
        {
               "question": "  Remember me' functions in Web browsers or other applications are unsafe and should be avoided. True or False?",
               "choices": ["A) True", "B) False","C) It depends", "D) Every option mentioned above"],

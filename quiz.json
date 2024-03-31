@@ -82,7 +82,7 @@
    {
            "question": "You accidentally download a file from a suspicious website and notice your computer behaving strangely. What should you do?",
            "choices": ["A) Continue using the computer as norma", "B) Ignore the strange behavior", "C) Run a virus scan and remove any malware detected", "D) Revisit the website to get in touch."],
-           "answer": "C) Run a virus scan and remove any malware detected."
+           "answer": "C) Run a virus scan and remove any malware detected"
    },
    {
            "question": "You receive an email from an unknown sender that contains a link to click on. What should you do?",

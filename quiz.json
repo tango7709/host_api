@@ -864,7 +864,7 @@
     },
     {
         "question": "What is the purpose of a VPN?",
-        "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy ", "D) Increases internet speed"],
+        "choices": ["A) Blocks access to certain websites", "B) Acts as a firewall", "C) Encrypts internet traffic to protect data and privacy", "D) Increases internet speed"],
         "answer": "C)  Encrypts internet traffic to protect data and privacy"
     },
     {

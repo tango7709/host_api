@@ -594,9 +594,9 @@
        "answer": "A) Sabotage"
      },
      {
-       "question": "  What type of attack is shown in the figure below? Refer to page 148 in book.",
-       "choices": ["A) Fraggle", "B) Smurf","C) Ping flood", "D) SYN flood"],
-       "answer": "D) SYN flood"
+       "question": "  Which of the following is responsible for maintaining and managing IT security in any company or organization?",
+       "choices": ["A) Software Security Specialist", "B) CEO of the organization","C) Security Auditor", "D) IT Security Engineer"],
+       "answer": "D) IT Security Engineer"
      },
      {
        "question": "  Which one of the folloing statements best describes a zero-day vulnerability?",

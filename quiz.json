@@ -247,7 +247,7 @@
  },
  {
         "question": " Which of the following is a type of cyber attack?",
-        "choices": ["A) Phishing", "B) SQL Injections", "C) Password Attack", "D) Attacks"],
+        "choices": ["A) Phishing", "B) SQL Injections", "C) Password Attack", "D) All of the above"],
         "answer": "D) All of the above"
  },
  {

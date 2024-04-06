@@ -56,7 +56,7 @@
     {
         "question": "Cyber Security provide security against what?",
         "choices": ["A) Against Malware", "B) Defends a device from threat.", "C) Against cyber-terrorists", "D) All mentioned options"],
-        "answer": "D)  All mentioned options"
+        "answer": "D) All mentioned options"
 
     },
  {

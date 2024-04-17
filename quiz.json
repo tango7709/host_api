@@ -301,9 +301,9 @@
         "answer": "A) True"
  },
  {
-        "question": " Cyber crime is comprised entirely of online scams",
-        "choices": ["A) True", "B) False","C) Both options above are correct", "D) All of the above"],
-        "answer": "B) False"
+        "question": " Which of the following tech-concepts cannot be sniffed?",
+        "choices": ["A) FTP passwords", "B) Cloud sessions","C) Telnet passwords", "D) Chat sessions"],
+        "answer": "B) Cloud sessions"
  },
  {
         "question": " Even when using the Cloud exclusively to store data, valuable information can be retrieved from stolen laptops.",
@@ -316,9 +316,9 @@
         "answer": "B) False"
  },
  {
-        "question": " Cyber crime is comprised entirely of online scams",
-        "choices": ["A) When your files are locked on your device and cannot be accessed without paying a ransom.", "B) When your computer is locked and cannot be accessed without paying a ransom","C) When you are threatened with the release of stolen files unless you pay a ransom.", "D) All of the abov"],
-        "answer": "D) All of the above"
+        "question": " Sniffing is also known as ___________________",
+        "choices": ["A) Network-tapping", "B) Wireless-tapping","C) Net-tapping", "D) Wiretapping"],
+        "answer": "D) Wiretapping"
  },
  {
         "question": " A highly tailored email scam is known as:",
